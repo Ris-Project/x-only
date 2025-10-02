@@ -49,19 +49,3 @@ wget -q https://raw.githubusercontent.com/Ris-Project/x-only/main/udepe.sh && ch
 ```
 curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh && bash reinstall.sh ubuntu 25.04 && reboot
 ```
-
-## Apt Update
-## 
-```bsh
-apt update && apt install curl -y
-```
-
-```bsh
-apt-get update && apt-get install wget -y
-```
-## Installation
-
-2.installation script:
-```bsh
-wget "https://raw.githubusercontent.com/Ris-Project/x-only/main/instaludp.sh" -O instaludp.sh && chmod +x instaludp.sh && bash instaludp.sh
-```
