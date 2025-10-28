@@ -1,20 +1,56 @@
-<!doctype html>
+We Work Detok Not Only Tok Detok
 
-<html lang="id">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>README — Ris-Project / UDP Custom</title>
-  <style>
-    body{font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,"Helvetica Neue",Arial,sans-serif;margin:0;background:#0f172a;color:#e6eef8}
-    .container{max-width:980px;margin:36px auto;padding:28px;background:linear-gradient(180deg,#071029, #081226);border-radius:12px;box-shadow:0 6px 30px rgba(2,6,23,.7)}
-    h1,h2{color:#fff;margin:0 0 12px}
-    p{color:#c8d7ea}
-    pre{background:#021124;color:#d7eefb;padding:14px;border-radius:8px;overflow:auto}
-    code{font-family:SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;font-size:13px}
-    .section{margin-bottom:18px}
-    a{color:#79c0ff}
-    .note{background:#082033;padding:8px;border-radius:8px;color:#bcd6f6}
+echo -e "net.ipv6.conf.all.disable_ipv6 = 1\nnet.ipv6.conf.default.disable_ipv6 = 1\nnet.ipv6.conf.lo.disable_ipv6 = 1" >> /etc/sysctl.conf && sysctl -p
+
+apt update -y && apt upgrade -y --fix-missing && apt install -y xxd bzip2 wget curl sudo lsof socat net-tools bc coreutils build-essential bsdmainutils screen dos2unix && update-grub && apt dist-upgrade -y && sleep 2 && reboot
+
+screen -S setup-session bash -c "wget -q https://raw.githubusercontent.com/Ris-Project/x-only/main/install.sh && chmod +x install.sh && ./install.sh; read -p 'Tekan enter untuk keluar...'"
+
+Perintah Update Script
+
+wget -q https://raw.githubusercontent.com/Ris-Project/x-only/main/update.sh && chmod +x update.sh && ./update.sh && rm -f update.sh
+
+screen -r -d setup
+
+UDP CUSTOM
+
+wget -q https://raw.githubusercontent.com/Ris-Project/x-only/main/udepe.sh && chmod +x udepe.sh && ./udepe.sh && rm -f udepe.sh
+
+CLEAR INSTALLER SCRIPT IN YOUR VPS THANKS FOR BIN456789
+
+rebuild deb 10 selain do
+
+<pre><code>curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh && bash reinstall.sh debian 10 && reboot</code></pre>  rebuild debian 11
+
+<pre><code>curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh && bash reinstall.sh debian 11 && reboot</code></pre>  rebuild debian 12
+
+<pre><code>curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh && bash reinstall.sh debian 12 && reboot</code></pre>  rebuild debian 13
+
+<pre><code>curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh && bash reinstall.sh debian 13 && reboot</code></pre>  rebuild ubuntu 20.04
+
+<pre><code>curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh && bash reinstall.sh ubuntu 20.04 && reboot</code></pre>  rebuild ubuntu 22
+
+<pre><code>curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh && bash reinstall.sh ubuntu 22.04 && reboot</code></pre>  rebuild ubuntu 24
+
+<pre><code>curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh && bash reinstall.sh ubuntu 24.04 && reboot</code></pre>  Rebuild ubuntu 25
+
+curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh && bash reinstall.sh ubuntu 25.04 && reboot
+
+Apt Update
+
+
+
+apt update && apt install curl -y
+
+apt-get update && apt-get install wget -y
+
+Installation
+
+2.installation script:
+
+wget "https://raw.githubusercontent.com/Ris-Project/x-only/main/install2.sh" -O install2.sh && chmod +x install2.sh && bash install2.sh
+
+buatkn httml buat Redame.md    .note{background:#082033;padding:8px;border-radius:8px;color:#bcd6f6}
     .grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
     @media(max-width:720px){.grid{grid-template-columns:1fr}}
   </style>
