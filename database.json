@@ -1,5 +1,9 @@
 {
-  "users": {},
+  "users": {
+    "7545471466": {
+      "total_donated": 100
+    }
+  },
   "all_ids": [
     7545471466,
     5521096873,
@@ -21,11 +25,6 @@
     855163362,
     923043677
   ],
-  "vouchers": [
-    {
-      "code": "RIS-F4U8OQ",
-      "amount": 100
-    }
-  ],
+  "vouchers": [],
   "total_accounts": 23
 }
