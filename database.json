@@ -21,6 +21,11 @@
     855163362,
     923043677
   ],
-  "vouchers": [],
+  "vouchers": [
+    {
+      "code": "RIS-F4U8OQ",
+      "amount": 100
+    }
+  ],
   "total_accounts": 23
 }
