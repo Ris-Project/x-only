@@ -150,7 +150,7 @@
     {
       "id": "TICKET-1766326712310",
       "userId": 5521096873,
-      "status": "replied",
+      "status": "open",
       "messages": [
         {
           "sender": "user",
@@ -171,6 +171,11 @@
           "sender": "admin",
           "text": "kurang donasi jadi ga kebeli server cf nya 😂",
           "timestamp": "2025-12-21T14:19:42.409Z"
+        },
+        {
+          "sender": "user",
+          "text": "sabar min",
+          "timestamp": "2025-12-21T14:20:03.479Z"
         }
       ]
     }
