@@ -146,6 +146,18 @@
       "timestamp": "2025-12-21T14:07:52.856Z",
       "adminReply": "apa woy",
       "adminReplyTimestamp": "2025-12-21T14:08:12.321Z"
+    },
+    {
+      "id": "TICKET-1766326712310",
+      "userId": 5521096873,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "p",
+          "timestamp": "2025-12-21T14:18:32.310Z"
+        }
+      ]
     }
   ]
 }
