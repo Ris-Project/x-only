@@ -195,7 +195,7 @@
     {
       "id": "TICKET-1766327661253",
       "userId": 5521096873,
-      "status": "replied",
+      "status": "open",
       "messages": [
         {
           "sender": "user",
@@ -236,6 +236,11 @@
           "sender": "admin",
           "text": "apa",
           "timestamp": "2025-12-21T14:41:54.462Z"
+        },
+        {
+          "sender": "user",
+          "text": "gak konek ya min",
+          "timestamp": "2025-12-21T14:42:20.728Z"
         }
       ]
     }
