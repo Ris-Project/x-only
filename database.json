@@ -256,6 +256,18 @@
           "timestamp": "2025-12-21T14:56:19.037Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1766330520492",
+      "userId": 5521096873,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "masih min",
+          "timestamp": "2025-12-21T15:22:00.492Z"
+        }
+      ]
     }
   ]
 }
