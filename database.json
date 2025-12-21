@@ -309,5 +309,14 @@
         }
       ]
     }
-  ]
+  ],
+  "udp_servers": [
+    {
+      "name": "indo",
+      "ip": "202.155.95.87",
+      "location": "jakarta",
+      "is_active": true
+    }
+  ],
+  "udp_accounts": []
 }
