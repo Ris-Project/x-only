@@ -274,6 +274,18 @@
           "timestamp": "2025-12-21T15:22:17.798Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1766335716714",
+      "userId": 5521096873,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "p",
+          "timestamp": "2025-12-21T16:48:36.714Z"
+        }
+      ]
     }
   ]
 }
