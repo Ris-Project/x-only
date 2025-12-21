@@ -278,12 +278,17 @@
     {
       "id": "TICKET-1766335716714",
       "userId": 5521096873,
-      "status": "open",
+      "status": "replied",
       "messages": [
         {
           "sender": "user",
           "text": "p",
           "timestamp": "2025-12-21T16:48:36.714Z"
+        },
+        {
+          "sender": "admin",
+          "text": "apa cuy",
+          "timestamp": "2025-12-21T16:48:53.039Z"
         }
       ]
     }
