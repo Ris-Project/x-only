@@ -150,7 +150,7 @@
     {
       "id": "TICKET-1766326712310",
       "userId": 5521096873,
-      "status": "open",
+      "status": "replied",
       "messages": [
         {
           "sender": "user",
@@ -166,6 +166,11 @@
           "sender": "user",
           "text": "kenapa ga bisa konek min",
           "timestamp": "2025-12-21T14:19:10.783Z"
+        },
+        {
+          "sender": "admin",
+          "text": "kurang donasi jadi ga kebeli server cf nya 😂",
+          "timestamp": "2025-12-21T14:19:42.409Z"
         }
       ]
     }
