@@ -141,8 +141,10 @@
       "id": "TICKET-1766326072856",
       "userId": 5521096873,
       "userMessage": "min",
-      "status": "open",
-      "timestamp": "2025-12-21T14:07:52.856Z"
+      "status": "replied",
+      "timestamp": "2025-12-21T14:07:52.856Z",
+      "adminReply": "apa woy",
+      "adminReplyTimestamp": "2025-12-21T14:08:12.321Z"
     }
   ]
 }
