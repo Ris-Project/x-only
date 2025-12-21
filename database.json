@@ -194,7 +194,7 @@
     {
       "id": "TICKET-1766327661253",
       "userId": 5521096873,
-      "status": "open",
+      "status": "replied",
       "messages": [
         {
           "sender": "user",
@@ -220,6 +220,11 @@
           "sender": "user",
           "text": "gk konek",
           "timestamp": "2025-12-21T14:38:43.756Z"
+        },
+        {
+          "sender": "admin",
+          "text": "server down",
+          "timestamp": "2025-12-21T14:39:05.910Z"
         }
       ]
     }
