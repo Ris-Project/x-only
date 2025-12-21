@@ -278,7 +278,7 @@
     {
       "id": "TICKET-1766335716714",
       "userId": 5521096873,
-      "status": "open",
+      "status": "replied",
       "messages": [
         {
           "sender": "user",
@@ -294,6 +294,11 @@
           "sender": "user",
           "text": "gk min tanya aja",
           "timestamp": "2025-12-21T16:49:12.623Z"
+        },
+        {
+          "sender": "admin",
+          "text": "ok",
+          "timestamp": "2025-12-21T16:50:24.991Z"
         }
       ]
     }
