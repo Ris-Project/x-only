@@ -340,6 +340,18 @@
           "timestamp": "2025-12-22T05:19:31.833Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1766405655794",
+      "userId": 7545471466,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "p",
+          "timestamp": "2025-12-22T12:14:15.794Z"
+        }
+      ]
     }
   ],
   "udp_servers": [],
