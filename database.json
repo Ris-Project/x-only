@@ -575,12 +575,17 @@
     {
       "id": "TICKET-1766936046934",
       "userId": 7222231176,
-      "status": "open",
+      "status": "replied",
       "messages": [
         {
           "sender": "user",
           "text": "Mode sni",
           "timestamp": "2025-12-28T15:34:06.934Z"
+        },
+        {
+          "sender": "admin",
+          "text": "Akun cf ga bisa sni",
+          "timestamp": "2025-12-28T15:36:25.609Z"
         }
       ]
     }
