@@ -1,7 +1,14 @@
 {
   "users": {
     "7545471466": {
-      "total_donated": 100
+      "total_donated": 100,
+      "limit_count": 0,
+      "is_unlimited": false
+    },
+    "5521096873": {
+      "limit_count": 1,
+      "is_unlimited": false,
+      "total_donated": 0
     }
   },
   "all_ids": [
