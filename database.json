@@ -575,7 +575,7 @@
     {
       "id": "TICKET-1766936046934",
       "userId": 7222231176,
-      "status": "open",
+      "status": "replied",
       "messages": [
         {
           "sender": "user",
@@ -591,6 +591,11 @@
           "sender": "user",
           "text": "Sni",
           "timestamp": "2025-12-28T15:36:56.248Z"
+        },
+        {
+          "sender": "admin",
+          "text": "iya ga bisa pak harus premium",
+          "timestamp": "2025-12-28T15:37:56.742Z"
         }
       ]
     }
