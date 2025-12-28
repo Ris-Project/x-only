@@ -1,5 +1,9 @@
 {
   "users": {
+    "308698023": {
+      "is_unlimited": true,
+      "limit_count": 0
+    },
     "1121320091": {
       "limit_count": 1,
       "is_unlimited": false,
