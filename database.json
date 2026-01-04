@@ -365,8 +365,8 @@
       "total_donated": 0
     },
     "7916060352": {
-      "limit_count": 2,
-      "is_unlimited": false,
+      "limit_count": 0,
+      "is_unlimited": true,
       "total_donated": 0
     },
     "6051053336": {
