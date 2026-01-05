@@ -1101,12 +1101,17 @@
     {
       "id": "TICKET-1767624814873",
       "userId": 7758150740,
-      "status": "open",
+      "status": "replied",
       "messages": [
         {
           "sender": "user",
           "text": "Bang Untuk jadi reseller harus deposit berapa",
           "timestamp": "2026-01-05T14:53:34.873Z"
+        },
+        {
+          "sender": "admin",
+          "text": "Reseller di bot mna ya",
+          "timestamp": "2026-01-05T14:54:31.166Z"
         }
       ]
     }
