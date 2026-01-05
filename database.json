@@ -1101,7 +1101,7 @@
     {
       "id": "TICKET-1767624814873",
       "userId": 7758150740,
-      "status": "open",
+      "status": "replied",
       "messages": [
         {
           "sender": "user",
@@ -1117,6 +1117,11 @@
           "sender": "user",
           "text": "Bot vpn lu bang bukan yang Vless litime",
           "timestamp": "2026-01-05T14:55:56.921Z"
+        },
+        {
+          "sender": "admin",
+          "text": "kan do bot sudah di sertakan bahwa depossit 50k otomatis jadi Reseller",
+          "timestamp": "2026-01-05T14:57:01.173Z"
         }
       ]
     }
