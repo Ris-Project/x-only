@@ -1101,7 +1101,7 @@
     {
       "id": "TICKET-1767624814873",
       "userId": 7758150740,
-      "status": "replied",
+      "status": "open",
       "messages": [
         {
           "sender": "user",
@@ -1112,6 +1112,11 @@
           "sender": "admin",
           "text": "Reseller di bot mna ya",
           "timestamp": "2026-01-05T14:54:31.166Z"
+        },
+        {
+          "sender": "user",
+          "text": "Bot vpn lu bang bukan yang Vless litime",
+          "timestamp": "2026-01-05T14:55:56.921Z"
         }
       ]
     }
