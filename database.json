@@ -1,5 +1,11 @@
 {
-  "users": {},
+  "users": {
+    "7758150740": {
+      "limit_count": 1,
+      "is_unlimited": false,
+      "total_donated": 0
+    }
+  },
   "all_ids": [
     7758150740
   ],
