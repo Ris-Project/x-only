@@ -248,5 +248,18 @@
   ],
   "vouchers": [],
   "total_accounts": 76,
-  "support_tickets": []
+  "support_tickets": [
+    {
+      "id": "TICKET-1768086758548",
+      "userId": 7758150740,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "Bang web vless password nya apa yah",
+          "timestamp": "2026-01-10T23:12:38.548Z"
+        }
+      ]
+    }
+  ]
 }
