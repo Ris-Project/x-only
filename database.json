@@ -271,7 +271,7 @@
     {
       "id": "TICKET-1768091275560",
       "userId": 7758150740,
-      "status": "replied",
+      "status": "open",
       "messages": [
         {
           "sender": "user",
@@ -282,6 +282,11 @@
           "sender": "admin",
           "text": "ngapain di web kan ada bot",
           "timestamp": "2026-01-11T07:04:45.967Z"
+        },
+        {
+          "sender": "user",
+          "text": "Oh sama yah bang bot sama web",
+          "timestamp": "2026-01-11T09:59:30.839Z"
         }
       ]
     }
