@@ -260,6 +260,18 @@
           "timestamp": "2026-01-10T23:12:38.548Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1768091275560",
+      "userId": 7758150740,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "Min password untuk login ke web vless mu apa min",
+          "timestamp": "2026-01-11T00:27:55.560Z"
+        }
+      ]
     }
   ]
 }
