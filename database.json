@@ -271,7 +271,7 @@
     {
       "id": "TICKET-1768091275560",
       "userId": 7758150740,
-      "status": "replied",
+      "status": "open",
       "messages": [
         {
           "sender": "user",
@@ -292,6 +292,11 @@
           "sender": "admin",
           "text": "ya sma",
           "timestamp": "2026-01-11T10:01:13.558Z"
+        },
+        {
+          "sender": "user",
+          "text": "Oke bang",
+          "timestamp": "2026-01-11T10:01:50.020Z"
         }
       ]
     }
