@@ -267,12 +267,17 @@
     {
       "id": "TICKET-1768091275560",
       "userId": 7758150740,
-      "status": "open",
+      "status": "replied",
       "messages": [
         {
           "sender": "user",
           "text": "Min password untuk login ke web vless mu apa min",
           "timestamp": "2026-01-11T00:27:55.560Z"
+        },
+        {
+          "sender": "admin",
+          "text": "ngapain di web kan ada bot",
+          "timestamp": "2026-01-11T07:04:45.967Z"
         }
       ]
     }
