@@ -314,6 +314,18 @@
           "timestamp": "2026-01-11T10:01:50.020Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1768192497626",
+      "userId": 8283757249,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "Bang pasword untuk masuk vless mu apa \nSoalnya jaga jaga kalo tele gua di bekuin",
+          "timestamp": "2026-01-12T04:34:57.626Z"
+        }
+      ]
     }
   ]
 }
