@@ -409,6 +409,18 @@
           "timestamp": "2026-01-12T04:34:57.626Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1769165020056",
+      "userId": 1818806129,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "Akun nya sunek?",
+          "timestamp": "2026-01-23T10:43:40.056Z"
+        }
+      ]
     }
   ]
 }
