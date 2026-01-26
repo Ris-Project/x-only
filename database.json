@@ -439,6 +439,18 @@
           "timestamp": "2026-01-23T10:43:40.056Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1769413942599",
+      "userId": 8294246710,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "min kok server nya,ping time out terus?",
+          "timestamp": "2026-01-26T07:52:22.599Z"
+        }
+      ]
     }
   ]
 }
