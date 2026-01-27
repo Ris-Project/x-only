@@ -455,6 +455,18 @@
           "timestamp": "2026-01-26T07:52:22.599Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1769495045405",
+      "userId": 188506672,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "User pasword",
+          "timestamp": "2026-01-27T06:24:05.405Z"
+        }
+      ]
     }
   ]
 }
