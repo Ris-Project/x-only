@@ -472,6 +472,18 @@
           "timestamp": "2026-01-27T06:24:05.405Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1769726979473",
+      "userId": 8294246710,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "min?",
+          "timestamp": "2026-01-29T22:49:39.473Z"
+        }
+      ]
     }
   ]
 }
