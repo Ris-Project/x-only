@@ -490,6 +490,18 @@
           "timestamp": "2026-01-29T22:49:39.473Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1769857290617",
+      "userId": 7545471466,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "p",
+          "timestamp": "2026-01-31T11:01:30.617Z"
+        }
+      ]
     }
   ]
 }
