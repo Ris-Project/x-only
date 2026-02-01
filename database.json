@@ -512,6 +512,18 @@
           "timestamp": "2026-01-31T11:01:35.829Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1769957446208",
+      "userId": 8559782659,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "minta udp",
+          "timestamp": "2026-02-01T14:50:46.208Z"
+        }
+      ]
     }
   ]
 }
