@@ -547,6 +547,18 @@
           "timestamp": "2026-02-01T14:50:46.208Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1770358645217",
+      "userId": 7209791934,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "Server nya mati min",
+          "timestamp": "2026-02-06T06:17:25.217Z"
+        }
+      ]
     }
   ]
 }
