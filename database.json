@@ -587,6 +587,18 @@
           "timestamp": "2026-02-06T10:54:31.607Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1770537567428",
+      "userId": 1875440289,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "Kok gak muncul ping nya min",
+          "timestamp": "2026-02-08T07:59:27.428Z"
+        }
+      ]
     }
   ]
 }
