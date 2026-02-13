@@ -620,6 +620,18 @@
           "timestamp": "2026-02-08T07:59:27.428Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1770979493779",
+      "userId": 1176909454,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "Min CFnya dah GK bisa ya?",
+          "timestamp": "2026-02-13T10:44:53.779Z"
+        }
+      ]
     }
   ]
 }
