@@ -673,6 +673,18 @@
           "timestamp": "2026-02-13T10:44:53.779Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1772074668440",
+      "userId": 7545471466,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "p",
+          "timestamp": "2026-02-26T02:57:48.440Z"
+        }
+      ]
     }
   ]
 }
