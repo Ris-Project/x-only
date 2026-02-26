@@ -677,12 +677,17 @@
     {
       "id": "TICKET-1772074668440",
       "userId": 7545471466,
-      "status": "open",
+      "status": "replied",
       "messages": [
         {
           "sender": "user",
           "text": "p",
           "timestamp": "2026-02-26T02:57:48.440Z"
+        },
+        {
+          "sender": "admin",
+          "text": "ye",
+          "timestamp": "2026-02-26T02:57:57.354Z"
         }
       ]
     }
