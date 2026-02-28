@@ -693,6 +693,18 @@
           "timestamp": "2026-02-26T02:57:57.354Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1772256319132",
+      "userId": 8565897822,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "nggak ada udp",
+          "timestamp": "2026-02-28T05:25:19.132Z"
+        }
+      ]
     }
   ]
 }
