@@ -726,6 +726,18 @@
           "timestamp": "2026-02-28T08:25:49.226Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1772725188753",
+      "userId": 7100599305,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "Min server off semua kah?",
+          "timestamp": "2026-03-05T15:39:48.753Z"
+        }
+      ]
     }
   ]
 }
