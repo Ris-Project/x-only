@@ -780,6 +780,18 @@
           "timestamp": "2026-03-05T15:39:48.753Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1773982553095",
+      "userId": 5521096873,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "min",
+          "timestamp": "2026-03-20T04:55:53.095Z"
+        }
+      ]
     }
   ]
 }
