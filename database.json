@@ -816,6 +816,18 @@
           "timestamp": "2026-03-20T04:55:53.095Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1775061523122",
+      "userId": 5913824792,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "Apa password buat bikin vless?",
+          "timestamp": "2026-04-01T16:38:43.122Z"
+        }
+      ]
     }
   ]
 }
