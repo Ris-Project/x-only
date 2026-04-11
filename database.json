@@ -847,12 +847,17 @@
     {
       "id": "TICKET-1775887690856",
       "userId": 5521096873,
-      "status": "open",
+      "status": "replied",
       "messages": [
         {
           "sender": "user",
           "text": "p",
           "timestamp": "2026-04-11T06:08:10.856Z"
+        },
+        {
+          "sender": "admin",
+          "text": "ya",
+          "timestamp": "2026-04-11T06:08:31.898Z"
         }
       ]
     }
