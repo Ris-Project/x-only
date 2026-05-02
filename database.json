@@ -194,6 +194,9 @@
       "limit_count": 2,
       "is_unlimited": false,
       "total_donated": 0
+    },
+    "5521096873": {
+      "total_donated": 1000
     }
   },
   "all_ids": [
