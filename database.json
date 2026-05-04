@@ -927,12 +927,17 @@
     {
       "id": "TICKET-1777863413661",
       "userId": 1927687705,
-      "status": "open",
+      "status": "replied",
       "messages": [
         {
           "sender": "user",
           "text": "bang maksud dari sewa wa itu apa",
           "timestamp": "2026-05-04T02:56:53.661Z"
+        },
+        {
+          "sender": "admin",
+          "text": "wa kalian di sewa kan",
+          "timestamp": "2026-05-04T02:57:54.850Z"
         }
       ]
     }
