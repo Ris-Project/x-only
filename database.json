@@ -923,6 +923,18 @@
           "timestamp": "2026-05-02T07:24:04.615Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1777863413661",
+      "userId": 1927687705,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "bang maksud dari sewa wa itu apa",
+          "timestamp": "2026-05-04T02:56:53.661Z"
+        }
+      ]
     }
   ]
 }
