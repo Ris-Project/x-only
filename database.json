@@ -130,6 +130,18 @@
           "timestamp": "2026-06-09T07:31:18.229Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1780994324648",
+      "userId": 743375835,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "min akun cf lagi error ya gaada yg bisa konek",
+          "timestamp": "2026-06-09T08:38:44.648Z"
+        }
+      ]
     }
   ]
 }
