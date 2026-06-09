@@ -116,5 +116,18 @@
   ],
   "vouchers": [],
   "total_accounts": 64,
-  "support_tickets": []
+  "support_tickets": [
+    {
+      "id": "TICKET-1780990278229",
+      "userId": 1966634193,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "Min worker pada GK jalan?",
+          "timestamp": "2026-06-09T07:31:18.229Z"
+        }
+      ]
+    }
+  ]
 }
