@@ -135,12 +135,17 @@
     {
       "id": "TICKET-1780994324648",
       "userId": 743375835,
-      "status": "open",
+      "status": "replied",
       "messages": [
         {
           "sender": "user",
           "text": "min akun cf lagi error ya gaada yg bisa konek",
           "timestamp": "2026-06-09T08:38:44.648Z"
+        },
+        {
+          "sender": "admin",
+          "text": "tunggu limit normal kembali",
+          "timestamp": "2026-06-09T10:45:30.551Z"
         }
       ]
     }
