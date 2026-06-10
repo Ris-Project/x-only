@@ -170,6 +170,18 @@
           "timestamp": "2026-06-09T10:45:30.551Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1781098593991",
+      "userId": 6635927784,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "Maaf min cara seting config nya gmna ya biar support sni ?\nSoalnya ane buat inject add on Instagram",
+          "timestamp": "2026-06-10T13:36:33.991Z"
+        }
+      ]
     }
   ]
 }
