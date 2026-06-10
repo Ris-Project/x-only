@@ -197,6 +197,18 @@
           "timestamp": "2026-06-10T13:40:10.152Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1781103615456",
+      "userId": 6583056385,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "Vless nya gak jalan",
+          "timestamp": "2026-06-10T15:00:15.456Z"
+        }
+      ]
     }
   ]
 }
