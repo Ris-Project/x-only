@@ -221,6 +221,18 @@
           "timestamp": "2026-06-10T15:00:15.456Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1781188456540",
+      "userId": 6870649771,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "ini ga bisa trial dulu bang",
+          "timestamp": "2026-06-11T14:34:16.540Z"
+        }
+      ]
     }
   ]
 }
