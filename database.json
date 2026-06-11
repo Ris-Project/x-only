@@ -236,6 +236,18 @@
           "timestamp": "2026-06-11T14:34:16.540Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1781188822436",
+      "userId": 6870649771,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "min kenapa ga bisa internetan ya",
+          "timestamp": "2026-06-11T14:40:22.436Z"
+        }
+      ]
     }
   ]
 }
