@@ -256,6 +256,18 @@
           "timestamp": "2026-06-11T14:40:22.436Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1781307419826",
+      "userId": 7659801787,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "udah donasi tp kok ga masuk ya.?",
+          "timestamp": "2026-06-12T23:36:59.826Z"
+        }
+      ]
     }
   ]
 }
