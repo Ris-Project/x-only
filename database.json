@@ -273,6 +273,18 @@
           "timestamp": "2026-06-12T23:36:59.826Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1781382597209",
+      "userId": 1876869737,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "Min ga ada yg aktif?",
+          "timestamp": "2026-06-13T20:29:57.209Z"
+        }
+      ]
     }
   ]
 }
