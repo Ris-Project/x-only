@@ -333,6 +333,18 @@
           "timestamp": "2026-06-13T20:29:57.209Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1783176616223",
+      "userId": 6036219556,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "Vles/trojan tidak konek ya min?",
+          "timestamp": "2026-07-04T14:50:16.223Z"
+        }
+      ]
     }
   ]
 }
