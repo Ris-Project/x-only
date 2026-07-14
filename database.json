@@ -358,6 +358,18 @@
           "timestamp": "2026-07-04T14:50:16.223Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1784030006897",
+      "userId": 8294246710,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "min klo donasi itu berapa hari ya aktif nya?",
+          "timestamp": "2026-07-14T11:53:26.897Z"
+        }
+      ]
     }
   ]
 }
