@@ -385,6 +385,18 @@
           "timestamp": "2026-07-16T14:52:10.923Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1784218658674",
+      "userId": 5011020842,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "Can't donate",
+          "timestamp": "2026-07-16T16:17:38.674Z"
+        }
+      ]
     }
   ]
 }
