@@ -412,6 +412,18 @@
           "timestamp": "2026-07-16T16:24:55.964Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1784220735849",
+      "userId": 1121320091,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "sy sudah donasi kok ga bisa buat akun",
+          "timestamp": "2026-07-16T16:52:15.849Z"
+        }
+      ]
     }
   ]
 }
