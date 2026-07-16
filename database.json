@@ -373,6 +373,18 @@
           "timestamp": "2026-07-14T11:53:26.897Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1784213530923",
+      "userId": 5011020842,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "I can't donate from Malaysia, qr error. Any other qr?",
+          "timestamp": "2026-07-16T14:52:10.923Z"
+        }
+      ]
     }
   ]
 }
