@@ -467,6 +467,18 @@
           "timestamp": "2026-07-16T16:52:15.849Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1786309219085",
+      "userId": 7654372257,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "Min kenapa wc gk konek kuota spotify",
+          "timestamp": "2026-08-09T21:00:19.085Z"
+        }
+      ]
     }
   ]
 }
