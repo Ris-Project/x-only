@@ -486,12 +486,17 @@
     {
       "id": "TICKET-1786309257521",
       "userId": 7654372257,
-      "status": "open",
+      "status": "replied",
       "messages": [
         {
           "sender": "user",
           "text": "Saya suda donasi",
           "timestamp": "2026-08-09T21:00:57.521Z"
+        },
+        {
+          "sender": "admin",
+          "text": "emang gk kebuka?",
+          "timestamp": "2026-08-12T14:07:20.140Z"
         }
       ]
     }
