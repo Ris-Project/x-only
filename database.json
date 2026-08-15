@@ -487,7 +487,7 @@
     {
       "id": "TICKET-1786309257521",
       "userId": 7654372257,
-      "status": "replied",
+      "status": "open",
       "messages": [
         {
           "sender": "user",
@@ -498,6 +498,11 @@
           "sender": "admin",
           "text": "emang gk kebuka?",
           "timestamp": "2026-08-12T14:07:20.140Z"
+        },
+        {
+          "sender": "user",
+          "text": "Kebuka cmn gk konek",
+          "timestamp": "2026-08-15T06:19:21.872Z"
         }
       ]
     }
