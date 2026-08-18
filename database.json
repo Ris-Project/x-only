@@ -505,6 +505,18 @@
           "timestamp": "2026-08-15T06:19:21.872Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1787046704114",
+      "userId": 7545471466,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "p",
+          "timestamp": "2026-08-18T09:51:44.114Z"
+        }
+      ]
     }
   ]
 }
