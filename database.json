@@ -553,6 +553,18 @@
           "timestamp": "2026-08-26T16:17:59.535Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1787765327572",
+      "userId": 647579707,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "Sni bsa GK min",
+          "timestamp": "2026-08-26T17:28:47.572Z"
+        }
+      ]
     }
   ]
 }
