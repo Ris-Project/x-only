@@ -565,6 +565,18 @@
           "timestamp": "2026-08-26T17:28:47.572Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1787771094796",
+      "userId": 647579707,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "Tambahkan bug wa web.whatsapp.com",
+          "timestamp": "2026-08-26T19:04:54.796Z"
+        }
+      ]
     }
   ]
 }
