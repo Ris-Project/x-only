@@ -577,6 +577,18 @@
           "timestamp": "2026-08-26T19:04:54.796Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1787775072138",
+      "userId": 647579707,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "Tambahin bug SNI wa min web.whatsapp.com",
+          "timestamp": "2026-08-26T20:11:12.138Z"
+        }
+      ]
     }
   ]
 }
