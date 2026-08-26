@@ -538,6 +538,18 @@
           "timestamp": "2026-08-18T09:51:50.715Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1787761079535",
+      "userId": 2133999923,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "Akun mati kah min?",
+          "timestamp": "2026-08-26T16:17:59.535Z"
+        }
+      ]
     }
   ]
 }
