@@ -609,6 +609,18 @@
           "timestamp": "2026-08-26T20:11:12.138Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1788724150451",
+      "userId": 6853209910,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "Min bisa nyla gk nih worker",
+          "timestamp": "2026-09-06T19:49:10.451Z"
+        }
+      ]
     }
   ]
 }
