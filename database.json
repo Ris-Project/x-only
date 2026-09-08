@@ -614,12 +614,17 @@
     {
       "id": "TICKET-1788724150451",
       "userId": 6853209910,
-      "status": "open",
+      "status": "replied",
       "messages": [
         {
           "sender": "user",
           "text": "Min bisa nyla gk nih worker",
           "timestamp": "2026-09-06T19:49:10.451Z"
+        },
+        {
+          "sender": "admin",
+          "text": "enga domain nyah udah exp",
+          "timestamp": "2026-09-08T12:20:10.968Z"
         }
       ]
     }
