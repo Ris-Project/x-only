@@ -647,6 +647,18 @@
           "timestamp": "2026-09-08T12:20:10.968Z"
         }
       ]
+    },
+    {
+      "id": "TICKET-1791297427267",
+      "userId": 7995767123,
+      "status": "open",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "Apa bot ini masih aktif?",
+          "timestamp": "2026-10-06T14:37:07.267Z"
+        }
+      ]
     }
   ]
 }
