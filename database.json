@@ -744,7 +744,7 @@
   ],
   "settings": {
     "type_vless": true,
-    "type_trojan": true,
+    "type_trojan": false,
     "mode_ws": true,
     "mode_sni": false
   }
