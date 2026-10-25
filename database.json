@@ -679,8 +679,47 @@
     }
   ],
   "processed_orders": {},
-  "pending_payments": [],
+  "pending_payments": [
+    {
+      "txid": "SEWA-460b854d-9047-43da-8332-4fdaea370631",
+      "userId": 8754934796,
+      "name": "cipoy",
+      "pid": "regis_ipbot",
+      "months": 1,
+      "days": 30,
+      "amount": 5000,
+      "params": {
+        "nama": "TokoSayaa",
+        "server": "TokoSayaa",
+        "ip": "103.45.12.8",
+        "oldExp": "-",
+        "newExp": "2026-11-24"
+      },
+      "createdAt": "2026-10-25T05:02:32.271Z",
+      "expireAt": "2026-10-25T05:17:32.271Z",
+      "status": "pending"
+    }
+  ],
   "sewa_history": [
+    {
+      "txid": "SEWA-460b854d-9047-43da-8332-4fdaea370631",
+      "userId": 8754934796,
+      "name": "cipoy",
+      "pid": "regis_ipbot",
+      "months": 1,
+      "days": 30,
+      "amount": 5000,
+      "params": {
+        "nama": "TokoSayaa",
+        "server": "TokoSayaa",
+        "ip": "103.45.12.8",
+        "oldExp": "-",
+        "newExp": "2026-11-24"
+      },
+      "createdAt": "2026-10-25T05:02:32.271Z",
+      "expireAt": "2026-10-25T05:17:32.271Z",
+      "status": "pending"
+    },
     {
       "txid": "SEWA-873a83ff-3109-4318-9e0b-b65b2dc9dabe",
       "userId": 7545471466,
