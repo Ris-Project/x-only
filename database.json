@@ -680,8 +680,47 @@
     }
   ],
   "processed_orders": {},
-  "pending_payments": [],
+  "pending_payments": [
+    {
+      "txid": "SEWA-bb4f8e3c-19f3-47d6-859f-63b62afb0351",
+      "userId": 5521096873,
+      "name": "Abangstore",
+      "pid": "regis_xonly",
+      "months": 1,
+      "days": 30,
+      "amount": 7000,
+      "params": {
+        "nama": "TTokoSaya",
+        "server": "TTokoSaya",
+        "ip": "103.45.12.6",
+        "oldExp": "-",
+        "newExp": "2026-11-24"
+      },
+      "createdAt": "2026-10-25T10:55:14.416Z",
+      "expireAt": "2026-10-25T11:10:14.416Z",
+      "status": "pending"
+    }
+  ],
   "sewa_history": [
+    {
+      "txid": "SEWA-bb4f8e3c-19f3-47d6-859f-63b62afb0351",
+      "userId": 5521096873,
+      "name": "Abangstore",
+      "pid": "regis_xonly",
+      "months": 1,
+      "days": 30,
+      "amount": 7000,
+      "params": {
+        "nama": "TTokoSaya",
+        "server": "TTokoSaya",
+        "ip": "103.45.12.6",
+        "oldExp": "-",
+        "newExp": "2026-11-24"
+      },
+      "createdAt": "2026-10-25T10:55:14.416Z",
+      "expireAt": "2026-10-25T11:10:14.416Z",
+      "status": "pending"
+    },
     {
       "txid": "SEWA-86ef1863-f128-4684-b0c5-a7bad4392f27",
       "userId": 8754934796,
