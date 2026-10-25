@@ -679,27 +679,7 @@
     }
   ],
   "processed_orders": {},
-  "pending_payments": [
-    {
-      "txid": "SEWA-86ef1863-f128-4684-b0c5-a7bad4392f27",
-      "userId": 8754934796,
-      "name": "cipoy",
-      "pid": "renew_ipbot",
-      "months": 1,
-      "days": 30,
-      "amount": 5000,
-      "params": {
-        "nama": "TokoSayaa",
-        "server": "",
-        "ip": "103.45.12.8",
-        "oldExp": "2026-11-24",
-        "newExp": "2026-12-24"
-      },
-      "createdAt": "2026-10-25T05:04:45.390Z",
-      "expireAt": "2026-10-25T05:19:45.390Z",
-      "status": "pending"
-    }
-  ],
+  "pending_payments": [],
   "sewa_history": [
     {
       "txid": "SEWA-86ef1863-f128-4684-b0c5-a7bad4392f27",
@@ -718,7 +698,8 @@
       },
       "createdAt": "2026-10-25T05:04:45.390Z",
       "expireAt": "2026-10-25T05:19:45.390Z",
-      "status": "pending"
+      "status": "paid",
+      "paidAt": "2026-10-25T05:05:07.692Z"
     },
     {
       "txid": "SEWA-460b854d-9047-43da-8332-4fdaea370631",
