@@ -741,5 +741,11 @@
       "status": "paid",
       "paidAt": "2026-10-25T05:00:06.826Z"
     }
-  ]
+  ],
+  "settings": {
+    "type_vless": true,
+    "type_trojan": true,
+    "mode_ws": true,
+    "mode_sni": false
+  }
 }
