@@ -678,5 +678,47 @@
       ]
     }
   ],
-  "processed_orders": {}
+  "processed_orders": {},
+  "pending_payments": [
+    {
+      "txid": "SEWA-873a83ff-3109-4318-9e0b-b65b2dc9dabe",
+      "userId": 7545471466,
+      "name": "Riswan Store",
+      "pid": "regis_ipbot",
+      "months": 1,
+      "days": 30,
+      "amount": 5000,
+      "params": {
+        "nama": "TokoSaya",
+        "server": "TokoSaya",
+        "ip": "103.45.12.7",
+        "oldExp": "-",
+        "newExp": "2026-11-24"
+      },
+      "createdAt": "2026-10-25T04:59:20.228Z",
+      "expireAt": "2026-10-25T05:14:20.228Z",
+      "status": "pending"
+    }
+  ],
+  "sewa_history": [
+    {
+      "txid": "SEWA-873a83ff-3109-4318-9e0b-b65b2dc9dabe",
+      "userId": 7545471466,
+      "name": "Riswan Store",
+      "pid": "regis_ipbot",
+      "months": 1,
+      "days": 30,
+      "amount": 5000,
+      "params": {
+        "nama": "TokoSaya",
+        "server": "TokoSaya",
+        "ip": "103.45.12.7",
+        "oldExp": "-",
+        "newExp": "2026-11-24"
+      },
+      "createdAt": "2026-10-25T04:59:20.228Z",
+      "expireAt": "2026-10-25T05:14:20.228Z",
+      "status": "pending"
+    }
+  ]
 }
