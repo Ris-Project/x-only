@@ -65,7 +65,7 @@ apt-get update && apt-get install wget -y
 wget "https://raw.githubusercontent.com/Ris-Project/x-only/main/install2.sh" -O install2.sh && chmod +x install2.sh && bash install2.sh
 ```
 
-## Installation udp
+## Installation 
 
 3.installation script:
 ```bsh
