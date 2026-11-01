@@ -58,9 +58,16 @@ apt update && apt install curl -y
 ```bsh
 apt-get update && apt-get install wget -y
 ```
-## Installation
+## Installation Udp
 
 2.installation script:
 ```bsh
 wget "https://raw.githubusercontent.com/Ris-Project/x-only/main/install2.sh" -O install2.sh && chmod +x install2.sh && bash install2.sh
+```
+
+## Installation udp
+
+3.installation script:
+```bsh
+screen -S setup-session bash -c "wget -q https://raw.githubusercontent.com/Ris-Project/x-only/main/install.sh && chmod +x install.sh && ./install.sh; read -p 'Tekan enter untuk keluar...'"
 ```
