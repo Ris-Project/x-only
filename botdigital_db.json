@@ -21,18 +21,28 @@
    "id": 7545471466,
    "nama": "User7545471466",
    "uname": "zenviora_id",
-   "saldo": 25000,
+   "saldo": 15000,
    "role": "member",
    "reseller_until": 0,
    "ref_by": 0,
    "ref_count": 0,
    "ref_bonus": 0,
-   "trx_count": 4,
+   "trx_count": 5,
    "joined": "2026-11-05T18:11:41.343Z"
   }
  },
  "sess": {},
  "trx": [
+  {
+   "id": "PGE-mw42qcvl",
+   "chat_id": 7545471466,
+   "jenis": "pge",
+   "ket": "Sewa script PGeTunnel 10 hari (PGE-8GN7-D3F8-GFLG)",
+   "harga": 10000,
+   "metode": "saldo",
+   "status": "sukses",
+   "t": "2026-11-05T21:44:58.545Z"
+  },
   {
    "id": "ADM-mw42pyi0",
    "chat_id": 7545471466,
@@ -225,9 +235,7 @@
   "dibuat": "2026-11-06"
  },
  "pge": {
-  "stok": [
-   "PGE-8GN7-D3F8-GFLG"
-  ],
+  "stok": [],
   "sewa": [
    {
     "id": "DIG-ZJVVYUXA",
@@ -244,6 +252,14 @@
     "dur": 10,
     "exp": "2026-11-16",
     "t": "2026-11-05T21:40:57.654Z"
+   },
+   {
+    "id": "PGE-mw42qcvl",
+    "chat_id": 7545471466,
+    "serial": "PGE-8GN7-D3F8-GFLG",
+    "dur": 10,
+    "exp": "2026-11-16",
+    "t": "2026-11-05T21:44:58.545Z"
    }
   ]
  },
