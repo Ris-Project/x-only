@@ -27,7 +27,7 @@
    "ref_by": 0,
    "ref_count": 0,
    "ref_bonus": 0,
-   "trx_count": 3,
+   "trx_count": 4,
    "joined": "2026-11-05T18:11:41.343Z"
   }
  },
@@ -40,6 +40,16 @@
   }
  },
  "trx": [
+  {
+   "id": "DIG-2KL5EQRZ",
+   "chat_id": 7545471466,
+   "jenis": "pge",
+   "ket": "Sewa script PGeTunnel 10 hari (PGE-8GN7-D3F8-GFLG)",
+   "harga": 10000,
+   "metode": "qris",
+   "status": "sukses",
+   "t": "2026-11-05T21:40:57.654Z"
+  },
   {
    "id": "TR-mw3zrogg",
    "chat_id": 5521096873,
@@ -222,6 +232,14 @@
     "dur": 10,
     "exp": "2026-11-16",
     "t": "2026-11-05T20:16:24.751Z"
+   },
+   {
+    "id": "DIG-2KL5EQRZ",
+    "chat_id": 7545471466,
+    "serial": "PGE-8GN7-D3F8-GFLG",
+    "dur": 10,
+    "exp": "2026-11-16",
+    "t": "2026-11-05T21:40:57.654Z"
    }
   ]
  },
