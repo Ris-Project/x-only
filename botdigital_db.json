@@ -215,16 +215,7 @@
     "5521096873": 2
    }
   },
-  "aktif": [
-   {
-    "jenis": "vmess",
-    "user": "TrialVM240",
-    "sid": "mw3vf6y0",
-    "chat_id": 5521096873,
-    "buat": 1793910121360,
-    "hapus": 1793913721360
-   }
-  ]
+  "aktif": []
  },
  "trials": [
   {
