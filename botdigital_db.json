@@ -34,11 +34,12 @@
  "sess": {
   "7545471466": {
    "mod": "adm",
-   "step": "saldo_id",
+   "step": "saldo_nom",
    "data": {
-    "mode": "add"
+    "mode": "add",
+    "uid": 7545471466
    },
-   "ts": 1793915071269
+   "ts": 1793915074336
   }
  },
  "trx": [
