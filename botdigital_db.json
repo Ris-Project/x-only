@@ -34,12 +34,13 @@
  "sess": {
   "5521096873": {
    "mod": "vpn",
-   "step": "nama",
+   "step": "ip",
    "data": {
     "hari": 30,
-    "harga": 10000
+    "harga": 10000,
+    "nama": "riswan-vps"
    },
-   "ts": 1793909239725
+   "ts": 1793909255472
   }
  },
  "trx": [
