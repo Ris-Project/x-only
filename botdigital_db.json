@@ -31,21 +31,7 @@
    "joined": "2026-11-05T18:11:41.343Z"
   }
  },
- "sess": {
-  "7545471466": {
-   "mod": "adm",
-   "step": "svr_harga",
-   "data": {
-    "domain": "idv2.sanx.cloud",
-    "auth": "2a0a85",
-    "nama": "indo_v2",
-    "quota": 350,
-    "iplimit": 2,
-    "batas": 0
-   },
-   "ts": 1793916629666
-  }
- },
+ "sess": {},
  "trx": [
   {
    "id": "PGE-mw42qcvl",
@@ -232,7 +218,18 @@
    "t": "2026-11-05T18:36:22.212Z"
   }
  ],
- "servers": [],
+ "servers": [
+  {
+   "id": "mw43nas8",
+   "nama": "indo_v2",
+   "domain": "idv2.sanx.cloud",
+   "auth": "2a0a85",
+   "harga": 5000,
+   "quota": 350,
+   "iplimit": 2,
+   "batas": 0
+  }
+ ],
  "gmail": {
   "stok": [],
   "wd": []
