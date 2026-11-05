@@ -37,6 +37,15 @@
    "step": "ext_serial",
    "data": {},
    "ts": 1793906042362
+  },
+  "5521096873": {
+   "mod": "vpn2",
+   "step": "akun_user",
+   "data": {
+    "sid": "mw3vf6y0",
+    "jenis": "vmess"
+   },
+   "ts": 1793907542549
   }
  },
  "trx": [
