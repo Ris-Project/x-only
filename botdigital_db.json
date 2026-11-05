@@ -33,13 +33,13 @@
  },
  "sess": {
   "5521096873": {
-   "mod": "vpn2",
-   "step": "akun_user",
+   "mod": "vpn",
+   "step": "nama",
    "data": {
-    "sid": "mw3vf6y0",
-    "jenis": "vmess"
+    "hari": 30,
+    "harga": 10000
    },
-   "ts": 1793908213041
+   "ts": 1793909239725
   }
  },
  "trx": [
@@ -151,5 +151,10 @@
  "pge": {
   "stok": [],
   "sewa": []
+ },
+ "trial": {
+  "t3": {},
+  "t60": {},
+  "aktif": []
  }
 }
