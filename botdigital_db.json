@@ -34,12 +34,13 @@
  "sess": {
   "7545471466": {
    "mod": "vpn",
-   "step": "nama",
+   "step": "ip",
    "data": {
     "hari": 30,
-    "harga": 10000
+    "harga": 10000,
+    "nama": "wannn"
    },
-   "ts": 1793903690614
+   "ts": 1793903698531
   }
  },
  "trx": [
