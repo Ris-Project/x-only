@@ -14,7 +14,7 @@
    "ref_by": 0,
    "ref_count": 0,
    "ref_bonus": 0,
-   "trx_count": 1,
+   "trx_count": 2,
    "joined": "2026-11-05T18:11:39.144Z"
   },
   "7545471466": {
@@ -33,6 +33,16 @@
  },
  "sess": {},
  "trx": [
+  {
+   "id": "TR-mw3zigwx",
+   "chat_id": 5521096873,
+   "jenis": "trial",
+   "ket": "Trial SSH trialig12o7cplw @indonesia v2 (60 menit)",
+   "harga": 0,
+   "metode": "gratis",
+   "status": "sukses",
+   "t": "2026-11-05T20:14:51.681Z"
+  },
   {
    "id": "TR-mw3zaghr",
    "chat_id": 5521096873,
@@ -153,8 +163,21 @@
  },
  "trial": {
   "t3": {},
-  "t60": {},
-  "aktif": []
+  "t60": {
+   "2026-11-06": {
+    "5521096873": 1
+   }
+  },
+  "aktif": [
+   {
+    "jenis": "ssh",
+    "user": "TrialSSH087",
+    "sid": "mw3vf6y0",
+    "chat_id": 5521096873,
+    "buat": 1793909691681,
+    "hapus": 1793913291681
+   }
+  ]
  },
  "trials": [
   {
