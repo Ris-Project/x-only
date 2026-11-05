@@ -31,20 +31,21 @@
    "joined": "2026-11-05T18:11:41.343Z"
   }
  },
- "sess": {
-  "7545471466": {
-   "mod": "adm",
-   "step": "svradd",
-   "data": {},
-   "ts": 1793902679629
-  }
- },
+ "sess": {},
  "trx": [],
  "topup": [],
  "otp": [],
  "vps": [],
  "userIps": [],
- "servers": [],
+ "servers": [
+  {
+   "id": "mw3vf6y0",
+   "nama": "indonesia v2",
+   "domain": "idv2.sanx.cloud",
+   "auth": "2a0a85",
+   "harga": 5000
+  }
+ ],
  "gmail": {
   "stok": [],
   "wd": []
