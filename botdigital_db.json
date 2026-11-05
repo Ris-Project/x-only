@@ -14,7 +14,7 @@
    "ref_by": 0,
    "ref_count": 0,
    "ref_bonus": 0,
-   "trx_count": 3,
+   "trx_count": 4,
    "joined": "2026-11-05T18:11:39.144Z"
   },
   "7545471466": {
@@ -33,6 +33,16 @@
  },
  "sess": {},
  "trx": [
+  {
+   "id": "TR-mw3zrogg",
+   "chat_id": 5521096873,
+   "jenis": "trial",
+   "ket": "Trial VMess trialrn6qr1mbpo @indonesia v2 (60 menit)",
+   "harga": 0,
+   "metode": "gratis",
+   "status": "sukses",
+   "t": "2026-11-05T20:22:01.360Z"
+  },
   {
    "id": "DIG-ZJVVYUXA",
    "chat_id": 5521096873,
@@ -202,7 +212,7 @@
   "t3": {},
   "t60": {
    "2026-11-06": {
-    "5521096873": 1
+    "5521096873": 2
    }
   },
   "aktif": [
@@ -213,6 +223,14 @@
     "chat_id": 5521096873,
     "buat": 1793909691681,
     "hapus": 1793913291681
+   },
+   {
+    "jenis": "vmess",
+    "user": "TrialVM240",
+    "sid": "mw3vf6y0",
+    "chat_id": 5521096873,
+    "buat": 1793910121360,
+    "hapus": 1793913721360
    }
   ]
  },
