@@ -31,16 +31,7 @@
    "joined": "2026-11-05T18:11:41.343Z"
   }
  },
- "sess": {
-  "7545471466": {
-   "mod": "adm",
-   "step": "svr_auth",
-   "data": {
-    "domain": "idv2.sanx.cloud"
-   },
-   "ts": 1793916350294
-  }
- },
+ "sess": {},
  "trx": [
   {
    "id": "PGE-mw42qcvl",
