@@ -31,7 +31,16 @@
    "joined": "2026-11-05T18:11:41.343Z"
   }
  },
- "sess": {},
+ "sess": {
+  "7545471466": {
+   "mod": "adm",
+   "step": "saldo_id",
+   "data": {
+    "mode": "add"
+   },
+   "ts": 1793915071269
+  }
+ },
  "trx": [
   {
    "id": "DIG-2KL5EQRZ",
