@@ -217,14 +217,6 @@
   },
   "aktif": [
    {
-    "jenis": "ssh",
-    "user": "TrialSSH087",
-    "sid": "mw3vf6y0",
-    "chat_id": 5521096873,
-    "buat": 1793909691681,
-    "hapus": 1793913291681
-   },
-   {
     "jenis": "vmess",
     "user": "TrialVM240",
     "sid": "mw3vf6y0",
