@@ -171,15 +171,7 @@
    "t": "2026-11-05T18:36:22.212Z"
   }
  ],
- "servers": [
-  {
-   "id": "mw3zz9om",
-   "nama": "ID V2",
-   "domain": "idv2.sanx.cloud",
-   "auth": "2a0a85",
-   "harga": 5000
-  }
- ],
+ "servers": [],
  "gmail": {
   "stok": [],
   "wd": []
@@ -231,5 +223,6 @@
    "status": "aktif",
    "tries": 0
   }
- ]
+ ],
+ "akunVPN": []
 }
