@@ -27,12 +27,22 @@
    "ref_by": 0,
    "ref_count": 0,
    "ref_bonus": 0,
-   "trx_count": 5,
+   "trx_count": 6,
    "joined": "2026-11-05T18:11:41.343Z"
   }
  },
  "sess": {},
  "trx": [
+  {
+   "id": "TR-mw43ns83",
+   "chat_id": 7545471466,
+   "jenis": "trial",
+   "ket": "Trial Vmess trynrcq0otaji @indo_v2 (60 menit)",
+   "harga": 0,
+   "metode": "gratis",
+   "status": "sukses",
+   "t": "2026-11-05T22:10:58.083Z"
+  },
   {
    "id": "PGE-mw42qcvl",
    "chat_id": 7545471466,
@@ -278,10 +288,20 @@
   "t3": {},
   "t60": {
    "2026-11-06": {
-    "5521096873": 2
+    "5521096873": 2,
+    "7545471466": 1
    }
   },
-  "aktif": []
+  "aktif": [
+   {
+    "jenis": "vmess",
+    "user": "TrialVM657",
+    "sid": "mw43nas8",
+    "chat_id": 7545471466,
+    "buat": 1793916658083,
+    "hapus": 1793920258083
+   }
+  ]
  },
  "trials": [
   {
