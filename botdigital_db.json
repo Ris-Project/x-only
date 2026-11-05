@@ -33,14 +33,13 @@
  },
  "sess": {
   "5521096873": {
-   "mod": "vpn",
-   "step": "ip",
+   "mod": "vpn3",
+   "step": "trial_user",
    "data": {
-    "hari": 30,
-    "harga": 10000,
-    "nama": "riswan-vps"
+    "sid": "mw3vf6y0",
+    "jenis": "vmess"
    },
-   "ts": 1793909255472
+   "ts": 1793909294277
   }
  },
  "trx": [
