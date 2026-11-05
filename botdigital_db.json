@@ -31,17 +31,7 @@
    "joined": "2026-11-05T18:11:41.343Z"
   }
  },
- "sess": {
-  "5521096873": {
-   "mod": "vpn3",
-   "step": "trial_user",
-   "data": {
-    "sid": "mw3vf6y0",
-    "jenis": "vmess"
-   },
-   "ts": 1793909294277
-  }
- },
+ "sess": {},
  "trx": [
   {
    "id": "DIG-VYRQ88ZK",
