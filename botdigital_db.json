@@ -33,12 +33,13 @@
  },
  "sess": {
   "7545471466": {
-   "mod": "vps",
-   "step": "region",
+   "mod": "vpn2",
+   "step": "akun_user",
    "data": {
-    "kode": "2c2"
+    "sid": "mw3vf6y0",
+    "jenis": "vmess"
    },
-   "ts": 1793903108003
+   "ts": 1793903141502
   }
  },
  "trx": [],
