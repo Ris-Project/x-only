@@ -31,14 +31,7 @@
    "joined": "2026-11-05T18:11:41.343Z"
   }
  },
- "sess": {
-  "7545471466": {
-   "mod": "adm",
-   "step": "pgestok",
-   "data": {},
-   "ts": 1793914930792
-  }
- },
+ "sess": {},
  "trx": [
   {
    "id": "DIG-2KL5EQRZ",
@@ -223,7 +216,9 @@
   "dibuat": "2026-11-06"
  },
  "pge": {
-  "stok": [],
+  "stok": [
+   "PGE-8GN7-D3F8-GFLG"
+  ],
   "sewa": [
    {
     "id": "DIG-ZJVVYUXA",
