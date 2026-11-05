@@ -34,12 +34,13 @@
  "sess": {
   "7545471466": {
    "mod": "adm",
-   "step": "svr_nama",
+   "step": "svr_quota",
    "data": {
     "domain": "idv2.sanx.cloud",
-    "auth": "2a0a85"
+    "auth": "2a0a85",
+    "nama": "indo_v2"
    },
-   "ts": 1793916390828
+   "ts": 1793916595747
   }
  },
  "trx": [
