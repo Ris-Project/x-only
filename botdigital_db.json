@@ -74,6 +74,23 @@
  ],
  "topup": [
   {
+   "id": "DIG-ZJVVYUXA",
+   "chat_id": 5521096873,
+   "jenis": "pge10",
+   "ket": "Sewa script PGeTunnel 10 hari",
+   "base": 10000,
+   "total": 10000,
+   "trx_id": "DIG-e9778c6f-d252-4a1a-b0d2-9c6ed1f34e1a",
+   "qr": "00020101021226670016COM.NOBUBANK.WWW01189360050300000907180214822015831009970303UMI51440014ID.CO.QRIS.WWW0215ID20254530638560303UMI520465335303360540810000.005802ID5918Eris Store Payment6011TASIKMALAYA61054611162070703A016304D3AF",
+   "deadline": 1793910957742,
+   "status": "pending",
+   "data": {
+    "dur": 10,
+    "chat_id": 5521096873
+   },
+   "dibuat": "2026-11-05T20:15:57.742Z"
+  },
+  {
    "id": "DIG-YRGVTWYG",
    "chat_id": 5521096873,
    "jenis": "topup",
