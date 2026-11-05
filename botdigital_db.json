@@ -27,12 +27,22 @@
    "ref_by": 0,
    "ref_count": 0,
    "ref_bonus": 0,
-   "trx_count": 2,
+   "trx_count": 3,
    "joined": "2026-11-05T18:11:41.343Z"
   }
  },
  "sess": {},
  "trx": [
+  {
+   "id": "DIG-VYRQ88ZK",
+   "chat_id": 7545471466,
+   "jenis": "vpn",
+   "ket": "Sewa IP baru wannn (103.150.92.10) 30 hari",
+   "harga": 10000,
+   "metode": "qris",
+   "status": "sukses",
+   "t": "2026-11-05T18:36:22.212Z"
+  },
   {
    "id": "AK-mw3vmmfx",
    "chat_id": 7545471466,
@@ -82,7 +92,14 @@
  ],
  "otp": [],
  "vps": [],
- "userIps": [],
+ "userIps": [
+  {
+   "chat_id": 7545471466,
+   "nama": "wannn",
+   "ip": "103.150.92.10",
+   "t": "2026-11-05T18:36:22.212Z"
+  }
+ ],
  "servers": [
   {
    "id": "mw3vf6y0",
