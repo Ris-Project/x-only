@@ -14,7 +14,7 @@
    "ref_by": 0,
    "ref_count": 0,
    "ref_bonus": 0,
-   "trx_count": 2,
+   "trx_count": 3,
    "joined": "2026-11-05T18:11:39.144Z"
   },
   "7545471466": {
@@ -33,6 +33,16 @@
  },
  "sess": {},
  "trx": [
+  {
+   "id": "DIG-ZJVVYUXA",
+   "chat_id": 5521096873,
+   "jenis": "pge",
+   "ket": "Sewa script PGeTunnel 10 hari (PGE-T4T6-9H2G-8UP3)",
+   "harga": 10000,
+   "metode": "qris",
+   "status": "sukses",
+   "t": "2026-11-05T20:16:24.751Z"
+  },
   {
    "id": "TR-mw3zigwx",
    "chat_id": 5521096873,
@@ -177,7 +187,16 @@
  },
  "pge": {
   "stok": [],
-  "sewa": []
+  "sewa": [
+   {
+    "id": "DIG-ZJVVYUXA",
+    "chat_id": 5521096873,
+    "serial": "PGE-T4T6-9H2G-8UP3",
+    "dur": 10,
+    "exp": "2026-11-16",
+    "t": "2026-11-05T20:16:24.751Z"
+   }
+  ]
  },
  "trial": {
   "t3": {},
