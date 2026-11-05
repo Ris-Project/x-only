@@ -27,12 +27,22 @@
    "ref_by": 0,
    "ref_count": 0,
    "ref_bonus": 0,
-   "trx_count": 1,
+   "trx_count": 2,
    "joined": "2026-11-05T18:11:41.343Z"
   }
  },
  "sess": {},
- "trx": [],
+ "trx": [
+  {
+   "id": "AK-mw3vmmfx",
+   "chat_id": 7545471466,
+   "jenis": "akunvpn",
+   "ket": "Akun VMess riswanvpn @indonesia v2 (30 hari)",
+   "harga": 5000,
+   "status": "sukses",
+   "t": "2026-11-05T18:26:07.005Z"
+  }
+ ],
  "topup": [
   {
    "id": "DIG-VKDBLGSB",
