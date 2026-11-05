@@ -31,7 +31,17 @@
    "joined": "2026-11-05T18:11:41.343Z"
   }
  },
- "sess": {},
+ "sess": {
+  "7545471466": {
+   "mod": "vpn2",
+   "step": "akun_user",
+   "data": {
+    "sid": "mw3vf6y0",
+    "jenis": "ssh"
+   },
+   "ts": 1793905491760
+  }
+ },
  "trx": [
   {
    "id": "DIG-VYRQ88ZK",
@@ -123,5 +133,9 @@
  "settings": {},
  "meta": {
   "dibuat": "2026-11-06"
+ },
+ "pge": {
+  "stok": [],
+  "sewa": []
  }
 }
