@@ -19,9 +19,9 @@
   },
   "7545471466": {
    "id": 7545471466,
-   "nama": "Riswan Store",
+   "nama": "User7545471466",
    "uname": "zenviora_id",
-   "saldo": 5000,
+   "saldo": 25000,
    "role": "member",
    "reseller_until": 0,
    "ref_by": 0,
@@ -31,18 +31,17 @@
    "joined": "2026-11-05T18:11:41.343Z"
   }
  },
- "sess": {
-  "7545471466": {
-   "mod": "adm",
-   "step": "saldo_nom",
-   "data": {
-    "mode": "add",
-    "uid": 7545471466
-   },
-   "ts": 1793915074336
-  }
- },
+ "sess": {},
  "trx": [
+  {
+   "id": "ADM-mw42pyi0",
+   "chat_id": 7545471466,
+   "jenis": "admin",
+   "ket": "Tambah saldo oleh admin",
+   "harga": 20000,
+   "status": "sukses",
+   "t": "2026-11-05T21:44:39.912Z"
+  },
   {
    "id": "DIG-2KL5EQRZ",
    "chat_id": 7545471466,
