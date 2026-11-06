@@ -47,6 +47,15 @@
  "sess": {},
  "trx": [
   {
+   "id": "WEB-ZAHTMYSLQDQ",
+   "chat_id": 0,
+   "jenis": "akunvpn-web",
+   "ket": "Akun Trojan danstoreTR155 @indo_v2 (1 hari) — WEB",
+   "harga": 500,
+   "status": "sukses",
+   "t": "2026-11-06T12:57:05.010Z"
+  },
+  {
    "id": "WEB-YW83AC6H0QT",
    "chat_id": 0,
    "jenis": "akunvpn-web",
@@ -264,7 +273,7 @@
    "trx_id": "DIG-f988fa80-346f-49d5-a907-dea12ec2e7cf",
    "qr": "00020101021226670016COM.NOBUBANK.WWW01189360050300000907180214822015831009970303UMI51440014ID.CO.QRIS.WWW0215ID20254530638560303UMI5204653353033605406500.005802ID5918Eris Store Payment6011TASIKMALAYA61054611162070703A0163043C91",
    "deadline": 1793970985786,
-   "status": "paid",
+   "status": "done",
    "data": {
     "web": true,
     "ip": "2a09:bac1:34a0:28::2e4:bc",
@@ -281,7 +290,30 @@
    },
    "dibuat": "2026-11-06T12:56:25.786Z",
    "cek": 1793969819937,
-   "paid_at": "2026-11-06T12:57:00.914Z"
+   "paid_at": "2026-11-06T12:57:00.914Z",
+   "hasil": {
+    "judul": "AKUN PREMIUM TROJAN",
+    "username": "danstoreTR155",
+    "password": "",
+    "uuid": "cd95e841-d196-4e8c-bc9c-673434be4b85",
+    "domain": "idv2.sanx.cloud",
+    "expired": "07 Nov, 2026",
+    "quota": "10 GB",
+    "ip_limit": "2",
+    "bug": "live.iflix.com",
+    "bug_mode": "sni",
+    "links": [
+     {
+      "label": "TROJAN TLS (Port 443)",
+      "link": "trojan://cd95e841-d196-4e8c-bc9c-673434be4b85@idv2.sanx.cloud:443?path=%2Fviip-trojan-ws&security=tls&host=idv2.sanx.cloud&type=ws&sni=live.iflix.com#danstoreTR155"
+     },
+     {
+      "label": "TROJAN gRPC (Stabil)",
+      "link": "trojan://cd95e841-d196-4e8c-bc9c-673434be4b85@idv2.sanx.cloud:443?mode=gun&security=tls&type=grpc&serviceName=trojan-grpc&sni=live.iflix.com&host=idv2.sanx.cloud#danstoreTR155"
+     }
+    ]
+   },
+   "selesai": "2026-11-06T12:57:05.010Z"
   },
   {
    "id": "WEB-YW83AC6H0QT",
@@ -726,6 +758,15 @@
    "chat_id": 0,
    "web": true,
    "t": "2026-11-06T12:45:46.758Z"
+  },
+  {
+   "jenis": "trojan",
+   "user": "danstoreTR155",
+   "sid": "mw43nas8",
+   "server": "indo_v2",
+   "chat_id": 0,
+   "web": true,
+   "t": "2026-11-06T12:57:05.010Z"
   }
  ],
  "pinjam": {
