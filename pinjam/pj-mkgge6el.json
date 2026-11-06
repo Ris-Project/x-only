@@ -7,11 +7,12 @@
  "sess": {
   "5521096873": {
    "mod": "adm",
-   "step": "svr_auth",
+   "step": "svr_nama",
    "data": {
-    "domain": "tes.com"
+    "domain": "tes.com",
+    "auth": "jajsu"
    },
-   "ts": 1793949688323
+   "ts": 1793949693170
   }
  },
  "trx": [],
