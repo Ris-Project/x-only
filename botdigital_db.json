@@ -47,9 +47,11 @@
  "sess": {
   "7545471466": {
    "mod": "adm",
-   "step": "svr_domain",
-   "data": {},
-   "ts": 1793978428992
+   "step": "svr_auth",
+   "data": {
+    "domain": "tesku.sanx.cloud"
+   },
+   "ts": 1793978439228
   }
  },
  "trx": [
