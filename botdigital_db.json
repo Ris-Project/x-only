@@ -44,14 +44,7 @@
    "joined": "2026-11-06T07:36:32.993Z"
   }
  },
- "sess": {
-  "7545471466": {
-   "mod": "adm",
-   "step": "foto_menu",
-   "data": {},
-   "ts": 1793992025596
-  }
- },
+ "sess": {},
  "trx": [
   {
    "id": "TR-mw5b1dpt9A5",
@@ -907,7 +900,8 @@
     "up": 0,
     "at": 1793983244411
    }
-  }
+  },
+  "foto_menu": "id:AgACAgUAAxkBAAJDfmruJWQ3KihC5wQW81m7EiK5BdlNAALiFmsbuTNZVxgjrjSIY0JNAQADAgADdwADPQQ"
  },
  "meta": {
   "dibuat": "2026-11-06"
