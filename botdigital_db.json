@@ -44,21 +44,7 @@
    "joined": "2026-11-06T07:36:32.993Z"
   }
  },
- "sess": {
-  "7545471466": {
-   "mod": "adm",
-   "step": "svr_harga",
-   "data": {
-    "domain": "store.sanx.cloud",
-    "auth": "75ydyh",
-    "nama": "Tes",
-    "quota": 350,
-    "iplimit": 2,
-    "batas": 50
-   },
-   "ts": 1793977418954
-  }
- },
+ "sess": {},
  "trx": [
   {
    "id": "WEB-358GL63BC33",
@@ -738,6 +724,16 @@
    "quota": 350,
    "iplimit": 2,
    "batas": 0
+  },
+  {
+   "id": "mw53u83e",
+   "nama": "Tes",
+   "domain": "store.sanx.cloud",
+   "auth": "75ydyh",
+   "harga": 5000,
+   "quota": 350,
+   "iplimit": 2,
+   "batas": 50
   }
  ],
  "gmail": {
