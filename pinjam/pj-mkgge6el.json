@@ -5,7 +5,16 @@
  "utama": 5521096873,
  "users": {},
  "sess": {
-  "5521096873": null
+  "5521096873": {
+   "mod": "vpn2",
+   "step": "user",
+   "data": {
+    "act": "cre",
+    "jenis": "vmess",
+    "sid": "mw4ncbtj"
+   },
+   "ts": 1793949736815
+  }
  },
  "trx": [],
  "topup": [
