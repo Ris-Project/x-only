@@ -31,28 +31,7 @@
    "joined": "2026-11-06T11:43:07.418Z"
   }
  },
- "sess": {
-  "5521096873": {
-   "mod": "vpn2",
-   "step": "confirm",
-   "data": {
-    "act": "cre",
-    "jenis": "vmess",
-    "sid": "mw4wjaex",
-    "username": "tess",
-    "bugDomain": "live.iflix.com",
-    "bugMode": "sni",
-    "exp": 30,
-    "finalQuota": 0,
-    "baseHarga": 0,
-    "finalIPLimit": 2,
-    "ipExtra": 0,
-    "ipExtraHarga": 0,
-    "finalHarga": 0
-   },
-   "ts": 1793965210845
-  }
- },
+ "sess": {},
  "trx": [],
  "topup": [
   {
