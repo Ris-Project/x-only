@@ -58,11 +58,13 @@
   },
   "5521096873": {
    "mod": "pj",
-   "step": "paket",
+   "step": "token",
    "data": {
-    "mode": "baru"
+    "mode": "baru",
+    "durasi": 30,
+    "harga": 15000
    },
-   "ts": 1793993348043
+   "ts": 1793993350321
   }
  },
  "trx": [
