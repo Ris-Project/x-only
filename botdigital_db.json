@@ -27,7 +27,7 @@
    "ref_by": 0,
    "ref_count": 0,
    "ref_bonus": 0,
-   "trx_count": 9,
+   "trx_count": 10,
    "joined": "2026-11-05T18:11:41.343Z"
   }
  },
@@ -35,6 +35,16 @@
   "7545471466": null
  },
  "trx": [
+  {
+   "id": "TR-mw4nlz4d",
+   "chat_id": 7545471466,
+   "jenis": "trial",
+   "ket": "Trial Vmess tryly28xqpzp4 @indo_v2 (60 menit)",
+   "harga": 0,
+   "metode": "gratis",
+   "status": "sukses",
+   "t": "2026-11-06T07:29:26.029Z"
+  },
   {
    "id": "ID-MK1TGBFB",
    "chat_id": 5521096873,
@@ -437,7 +447,7 @@
   "t60": {
    "2026-11-06": {
     "5521096873": 2,
-    "7545471466": 3
+    "7545471466": 4
    }
   },
   "aktif": [
@@ -464,6 +474,14 @@
     "chat_id": 7545471466,
     "buat": 1793940457913,
     "hapus": 1793944057913
+   },
+   {
+    "jenis": "vmess",
+    "user": "TrialVM312",
+    "sid": "mw43nas8",
+    "chat_id": 7545471466,
+    "buat": 1793950166029,
+    "hapus": 1793953766029
    }
   ]
  },
