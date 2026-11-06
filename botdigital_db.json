@@ -315,7 +315,9 @@
   "game": [],
   "pln": []
  },
- "settings": {},
+ "settings": {
+  "worker_url": "https://layanandigital.scpremium988.workers.dev"
+ },
  "meta": {
   "dibuat": "2026-11-06"
  },
