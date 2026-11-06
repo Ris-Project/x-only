@@ -47,13 +47,14 @@
  "sess": {
   "7545471466": {
    "mod": "adm",
-   "step": "svr_quota",
+   "step": "svr_iplimit",
    "data": {
     "domain": "store.sanx.cloud",
     "auth": "75ydyh",
-    "nama": "Tes"
+    "nama": "Tes",
+    "quota": 350
    },
-   "ts": 1793977402839
+   "ts": 1793977411300
   }
  },
  "trx": [
