@@ -44,21 +44,7 @@
    "joined": "2026-11-06T07:36:32.993Z"
   }
  },
- "sess": {
-  "7545471466": {
-   "mod": "adm",
-   "step": "svr_harga",
-   "data": {
-    "domain": "testing.com",
-    "auth": "hauav",
-    "nama": "SG22",
-    "quota": 350,
-    "iplimit": 2,
-    "batas": 0
-   },
-   "ts": 1793971144895
-  }
- },
+ "sess": {},
  "trx": [
   {
    "id": "TR-mw4zxjll80I",
@@ -632,6 +618,16 @@
    "domain": "idv2.sanx.cloud",
    "auth": "2a0a85",
    "harga": 8000,
+   "quota": 350,
+   "iplimit": 2,
+   "batas": 0
+  },
+  {
+   "id": "mw503too",
+   "nama": "SG22",
+   "domain": "testing.com",
+   "auth": "hauav",
+   "harga": 5000,
    "quota": 350,
    "iplimit": 2,
    "batas": 0
