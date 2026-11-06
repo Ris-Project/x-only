@@ -47,14 +47,15 @@
  "sess": {
   "7545471466": {
    "mod": "adm",
-   "step": "svr_iplimit",
+   "step": "svr_batas",
    "data": {
     "domain": "tes.com",
     "auth": "uwysh",
     "nama": "tes",
-    "quota": 1
+    "quota": 1,
+    "iplimit": 1
    },
-   "ts": 1793985042843
+   "ts": 1793985046386
   }
  },
  "trx": [
