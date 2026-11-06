@@ -45,7 +45,19 @@
   }
  },
  "sess": {
-  "7545471466": null
+  "7545471466": {
+   "mod": "adm",
+   "step": "svr_harga",
+   "data": {
+    "domain": "tes.com",
+    "auth": "uwysh",
+    "nama": "tes",
+    "quota": 1,
+    "iplimit": 1,
+    "batas": 0
+   },
+   "ts": 1793985049623
+  }
  },
  "trx": [
   {
