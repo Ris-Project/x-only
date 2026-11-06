@@ -44,19 +44,7 @@
    "joined": "2026-11-06T07:36:32.993Z"
   }
  },
- "sess": {
-  "8754934796": {
-   "mod": "pj",
-   "step": "token",
-   "data": {
-    "mode": "baru",
-    "gratis": true,
-    "durasi": 30,
-    "harga": 0
-   },
-   "ts": 1793964779444
-  }
- },
+ "sess": {},
  "trx": [
   {
    "id": "GR-MW4UT4NS",
