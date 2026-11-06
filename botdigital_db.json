@@ -44,7 +44,18 @@
    "joined": "2026-11-06T07:36:32.993Z"
   }
  },
- "sess": {},
+ "sess": {
+  "7545471466": {
+   "mod": "vpn2",
+   "step": "user",
+   "data": {
+    "act": "cre",
+    "jenis": "vmess",
+    "sid": "mw43nas8"
+   },
+   "ts": 1793992939697
+  }
+ },
  "trx": [
   {
    "id": "TR-mw5d1mnfP4P",
