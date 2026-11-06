@@ -5,19 +5,7 @@
  "utama": 5521096873,
  "users": {},
  "sess": {
-  "5521096873": {
-   "mod": "adm",
-   "step": "svr_harga",
-   "data": {
-    "domain": "tes.com",
-    "auth": "jajsu",
-    "nama": "id",
-    "quota": 100,
-    "iplimit": 1,
-    "batas": 0
-   },
-   "ts": 1793949712346
-  }
+  "5521096873": null
  },
  "trx": [],
  "topup": [
@@ -38,7 +26,18 @@
   }
  ],
  "userIps": [],
- "servers": [],
+ "servers": [
+  {
+   "id": "mw4ncbtj",
+   "nama": "id",
+   "domain": "tes.com",
+   "auth": "jajsu",
+   "harga": 100,
+   "quota": 100,
+   "iplimit": 1,
+   "batas": 0
+  }
+ ],
  "akunVPN": [],
  "trial": {
   "t60": {},
