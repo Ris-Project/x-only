@@ -47,9 +47,11 @@
  "sess": {
   "7545471466": {
    "mod": "adm",
-   "step": "svr_domain",
-   "data": {},
-   "ts": 1793985024963
+   "step": "svr_auth",
+   "data": {
+    "domain": "tes.com"
+   },
+   "ts": 1793985030490
   }
  },
  "trx": [
