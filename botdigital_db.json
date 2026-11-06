@@ -27,12 +27,22 @@
    "ref_by": 0,
    "ref_count": 0,
    "ref_bonus": 0,
-   "trx_count": 10,
+   "trx_count": 11,
    "joined": "2026-11-05T18:11:41.343Z"
   }
  },
  "sess": {},
  "trx": [
+  {
+   "id": "TR-mw4ntn2r",
+   "chat_id": 7545471466,
+   "jenis": "trial",
+   "ket": "Trial Vless trytm2krlauf7 @indo_v2 (60 menit)",
+   "harga": 0,
+   "metode": "gratis",
+   "status": "sukses",
+   "t": "2026-11-06T07:35:23.667Z"
+  },
   {
    "id": "TR-mw4nlz4d",
    "chat_id": 7545471466,
@@ -445,7 +455,7 @@
   "t60": {
    "2026-11-06": {
     "5521096873": 2,
-    "7545471466": 4
+    "7545471466": 5
    }
   },
   "aktif": [
@@ -480,6 +490,14 @@
     "chat_id": 7545471466,
     "buat": 1793950166029,
     "hapus": 1793953766029
+   },
+   {
+    "jenis": "vless",
+    "user": "TrialVL303",
+    "sid": "mw43nas8",
+    "chat_id": 7545471466,
+    "buat": 1793950523667,
+    "hapus": 1793954123667
    }
   ]
  },
