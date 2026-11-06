@@ -54,6 +54,15 @@
  },
  "trx": [
   {
+   "id": "WEB-358GL63BC33",
+   "chat_id": 0,
+   "jenis": "akunvpn-web",
+   "ket": "Akun Vmess bebekVM995 @indo_v2 (1 hari) — WEB",
+   "harga": 500,
+   "status": "sukses",
+   "t": "2026-11-06T14:44:35.347Z"
+  },
+  {
    "id": "TR-mw51ja6aCP0",
    "chat_id": 0,
    "jenis": "trial",
@@ -300,7 +309,7 @@
    "trx_id": "DIG-06e653a1-8d4c-44cc-8ca5-b9a413ddce8a",
    "qr": "00020101021226670016COM.NOBUBANK.WWW01189360050300000907180214822015831009970303UMI51440014ID.CO.QRIS.WWW0215ID20254530638560303UMI5204653353033605406500.005802ID5918Eris Store Payment6011TASIKMALAYA61054611162070703A0163043C91",
    "deadline": 1793977458837,
-   "status": "paid",
+   "status": "done",
    "data": {
     "web": true,
     "ip": "2a09:bac1:34a0:28::2e4:bc",
@@ -317,7 +326,34 @@
    },
    "dibuat": "2026-11-06T14:44:18.837Z",
    "cek": 1793976270552,
-   "paid_at": "2026-11-06T14:44:31.923Z"
+   "paid_at": "2026-11-06T14:44:31.923Z",
+   "hasil": {
+    "judul": "AKUN PREMIUM VMESS",
+    "username": "bebekVM995",
+    "password": "",
+    "uuid": "61d915ca-93ad-4476-8839-44fa523e63ac",
+    "domain": "idv2.sanx.cloud",
+    "expired": "07 Nov, 2026",
+    "quota": "10 GB",
+    "ip_limit": "2",
+    "bug": "support.zoom.us",
+    "bug_mode": "wildcard",
+    "links": [
+     {
+      "label": "VMESS Non-TLS (Port 80)",
+      "link": "vmess://eyJ2IjoiMiIsInBzIjoiYmViZWtWTTk5NSIsImFkZCI6InN1cHBvcnQuem9vbS51cyIsInBvcnQiOiI4MCIsImlkIjoiNjFkOTE1Y2EtOTNhZC00NDc2LTg4MzktNDRmYTUyM2U2M2FjIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii92aWlwLXZtZXNzIiwidHlwZSI6Im5vbmUiLCJob3N0Ijoic3VwcG9ydC56b29tLnVzLmlkdjIuc2FueC5jbG91ZCIsInRscyI6Im5vbmUiLCJzbmkiOiJzdXBwb3J0Lnpvb20udXMuaWR2Mi5zYW54LmNsb3VkIn0="
+     },
+     {
+      "label": "VMESS TLS (Port 443)",
+      "link": "vmess://eyJ2IjoiMiIsInBzIjoiYmViZWtWTTk5NSIsImFkZCI6InN1cHBvcnQuem9vbS51cyIsInBvcnQiOiI0NDMiLCJpZCI6IjYxZDkxNWNhLTkzYWQtNDQ3Ni04ODM5LTQ0ZmE1MjNlNjNhYyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdmlpcC12bWVzcyIsInR5cGUiOiJub25lIiwiaG9zdCI6InN1cHBvcnQuem9vbS51cy5pZHYyLnNhbnguY2xvdWQiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJzdXBwb3J0Lnpvb20udXMuaWR2Mi5zYW54LmNsb3VkIn0="
+     },
+     {
+      "label": "VMESS gRPC (Stabil)",
+      "link": "vmess://eyJ2IjoiMiIsInBzIjoiYmViZWtWTTk5NSIsImFkZCI6InN1cHBvcnQuem9vbS51cyIsInBvcnQiOiI0NDMiLCJpZCI6IjYxZDkxNWNhLTkzYWQtNDQ3Ni04ODM5LTQ0ZmE1MjNlNjNhYyIsImFpZCI6IjAiLCJuZXQiOiJncnBjIiwicGF0aCI6InZtZXNzLWdycGMiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJzdXBwb3J0Lnpvb20udXMuaWR2Mi5zYW54LmNsb3VkIiwidGxzIjoidGxzIiwic25pIjoic3VwcG9ydC56b29tLnVzLmlkdjIuc2FueC5jbG91ZCJ9"
+     }
+    ]
+   },
+   "selesai": "2026-11-06T14:44:35.347Z"
   },
   {
    "id": "WEB-2ASKXBHNS0W",
@@ -882,6 +918,15 @@
    "chat_id": 0,
    "web": true,
    "t": "2026-11-06T12:57:05.010Z"
+  },
+  {
+   "jenis": "vmess",
+   "user": "bebekVM995",
+   "sid": "mw43nas8",
+   "server": "indo_v2",
+   "chat_id": 0,
+   "web": true,
+   "t": "2026-11-06T14:44:35.347Z"
   }
  ],
  "pinjam": {
