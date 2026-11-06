@@ -47,13 +47,14 @@
  "sess": {
   "7545471466": {
    "mod": "adm",
-   "step": "svr_quota",
+   "step": "svr_iplimit",
    "data": {
     "domain": "tesku.sanx.cloud",
     "auth": "uagay",
-    "nama": "TESSMATI"
+    "nama": "TESSMATI",
+    "quota": 100
    },
-   "ts": 1793978472081
+   "ts": 1793978477737
   }
  },
  "trx": [
