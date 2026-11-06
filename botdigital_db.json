@@ -34,6 +34,16 @@
  "sess": {},
  "trx": [
   {
+   "id": "TR-mw4nul2z",
+   "chat_id": 8754934796,
+   "jenis": "trial",
+   "ket": "Trial SSH tryujn9ugm8o1 @indo_v2 (60 menit)",
+   "harga": 0,
+   "metode": "gratis",
+   "status": "sukses",
+   "t": "2026-11-06T07:36:07.739Z"
+  },
+  {
    "id": "TR-mw4ntn2r",
    "chat_id": 7545471466,
    "jenis": "trial",
@@ -455,7 +465,8 @@
   "t60": {
    "2026-11-06": {
     "5521096873": 2,
-    "7545471466": 5
+    "7545471466": 5,
+    "8754934796": 1
    }
   },
   "aktif": [
@@ -498,6 +509,14 @@
     "chat_id": 7545471466,
     "buat": 1793950523667,
     "hapus": 1793954123667
+   },
+   {
+    "jenis": "ssh",
+    "user": "TrialSSH458",
+    "sid": "mw43nas8",
+    "chat_id": 8754934796,
+    "buat": 1793950567739,
+    "hapus": 1793954167739
    }
   ]
  },
