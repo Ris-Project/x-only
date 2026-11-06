@@ -255,6 +255,33 @@
  ],
  "topup": [
   {
+   "id": "WEB-ZAHTMYSLQDQ",
+   "chat_id": 0,
+   "jenis": "webvpn",
+   "ket": "Akun Trojan danstore @indo_v2 (1 hari) — Web",
+   "base": 500,
+   "total": 500,
+   "trx_id": "DIG-f988fa80-346f-49d5-a907-dea12ec2e7cf",
+   "qr": "00020101021226670016COM.NOBUBANK.WWW01189360050300000907180214822015831009970303UMI51440014ID.CO.QRIS.WWW0215ID20254530638560303UMI5204653353033605406500.005802ID5918Eris Store Payment6011TASIKMALAYA61054611162070703A0163043C91",
+   "deadline": 1793970985786,
+   "status": "pending",
+   "data": {
+    "web": true,
+    "ip": "2a09:bac1:34a0:28::2e4:bc",
+    "sid": "mw43nas8",
+    "proto": "trojan",
+    "username": "danstore",
+    "password": "",
+    "bugDomain": "live.iflix.com",
+    "bugMode": "sni",
+    "exp": 1,
+    "quota": 10,
+    "iplimit": 2,
+    "ipExtra": 0
+   },
+   "dibuat": "2026-11-06T12:56:25.786Z"
+  },
+  {
    "id": "WEB-YW83AC6H0QT",
    "chat_id": 0,
    "jenis": "webvpn",
