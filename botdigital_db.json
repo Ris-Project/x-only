@@ -550,35 +550,8 @@
  ],
  "akunVPN": [],
  "pinjam": {
-  "list": {
-   "PJ-MKGGE6EL": {
-    "id": "PJ-MKGGE6EL",
-    "ownerId": 5521096873,
-    "ownerNama": "Abangstore",
-    "ownerUname": "abangstore123",
-    "token": "7188829826:AAGDWpQ6xsiah33xoDrGP1rlNn7vcXuC4yg",
-    "adminId": 5521096873,
-    "dbPath": "pinjam/pj-mkgge6el.json",
-    "secret": "pjs-mw4mkggeix3ue7h5bk",
-    "durasi": 30,
-    "harga": 15000,
-    "metode": "qris",
-    "dibuat": "2026-11-06T07:00:15.566Z",
-    "expire": 1796540416741,
-    "active": true,
-    "suspended": false,
-    "status": "aktif",
-    "warns": {
-     "d3": false,
-     "d1": false
-    },
-    "botId": 7188829826,
-    "botUsername": "Riswanvpnbot"
-   }
-  },
-  "byUser": {
-   "5521096873": "PJ-MKGGE6EL"
-  },
+  "list": {},
+  "byUser": {},
   "antre": []
  }
 }
