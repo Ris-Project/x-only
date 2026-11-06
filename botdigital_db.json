@@ -45,22 +45,7 @@
   }
  },
  "sess": {
-  "5521096873": {
-   "mod": "pj",
-   "step": "confirm",
-   "data": {
-    "mode": "baru",
-    "durasi": 30,
-    "harga": 0,
-    "tok": "7957868561:AAGeYwY_A4aIaE6TxZc7U21lxjw4ynq1wAA",
-    "bot": {
-     "id": 7957868561,
-     "username": "vpsrwbot"
-    },
-    "adminId": 5521096873
-   },
-   "ts": 1793962250724
-  }
+  "5521096873": null
  },
  "trx": [
   {
@@ -607,8 +592,33 @@
  ],
  "akunVPN": [],
  "pinjam": {
-  "list": {},
-  "byUser": {},
+  "list": {
+   "PJ-UT3RUD6R": {
+    "id": "PJ-UT3RUD6R",
+    "ownerId": 5521096873,
+    "ownerNama": "Abangstore",
+    "ownerUname": "abangstore123",
+    "token": "7957868561:AAGeYwY_A4aIaE6TxZc7U21lxjw4ynq1wAA",
+    "adminId": 5521096873,
+    "dbPath": "pinjam/pj-ut3rud6r.json",
+    "secret": "pjs-mw4ut3rutygpyd3lhg",
+    "durasi": 30,
+    "harga": 0,
+    "metode": "gratis",
+    "dibuat": "2026-11-06T10:50:55.962Z",
+    "expire": 0,
+    "active": false,
+    "suspended": false,
+    "status": "proses",
+    "warns": {
+     "d3": false,
+     "d1": false
+    }
+   }
+  },
+  "byUser": {
+   "5521096873": "PJ-UT3RUD6R"
+  },
   "antre": []
  }
 }
