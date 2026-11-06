@@ -27,7 +27,7 @@
    "ref_by": 0,
    "ref_count": 0,
    "ref_bonus": 0,
-   "trx_count": 11,
+   "trx_count": 12,
    "joined": "2026-11-05T18:11:41.343Z"
   },
   "8754934796": {
@@ -46,6 +46,16 @@
  },
  "sess": {},
  "trx": [
+  {
+   "id": "TR-mw5a68ljADO",
+   "chat_id": 7545471466,
+   "jenis": "trial",
+   "ket": "Trial Vmess try67bl2osf49 @indo_v2 (60 menit)",
+   "harga": 0,
+   "metode": "gratis",
+   "status": "sukses",
+   "t": "2026-11-06T18:01:02.983Z"
+  },
   {
    "id": "WEB-8IJGVDHHRO0",
    "chat_id": 0,
@@ -918,7 +928,8 @@
   "t3": {},
   "t60": {
    "2026-11-07": {
-    "WEB:2a09:bac1:34c0:28::3c1:4e": 1
+    "WEB:2a09:bac1:34c0:28::3c1:4e": 1,
+    "7545471466": 1
    }
   },
   "aktif": [
@@ -1047,6 +1058,16 @@
     "ip": "2a09:bac1:34c0:28::3c1:4e",
     "buat": 1793985201637,
     "hapus": 1793988801637
+   },
+   {
+    "jenis": "vmess",
+    "user": "TrialVM630",
+    "sid": "mw43nas8",
+    "chat_id": 7545471466,
+    "web": false,
+    "ip": "",
+    "buat": 1793988062983,
+    "hapus": 1793991662983
    }
   ]
  },
