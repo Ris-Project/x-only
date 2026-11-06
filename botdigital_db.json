@@ -47,15 +47,16 @@
  "sess": {
   "7545471466": {
    "mod": "adm",
-   "step": "svr_batas",
+   "step": "svr_harga",
    "data": {
     "domain": "store.sanx.cloud",
     "auth": "75ydyh",
     "nama": "Tes",
     "quota": 350,
-    "iplimit": 2
+    "iplimit": 2,
+    "batas": 50
    },
-   "ts": 1793977415560
+   "ts": 1793977418954
   }
  },
  "trx": [
