@@ -38,7 +38,12 @@
    "data": {
     "mode": "baru",
     "durasi": 30,
-    "harga": 90000
+    "harga": 90000,
+    "tok": "7188829826:AAGDWpQ6xsiah33xoDrGP1rlNn7vcXuC4yg",
+    "bot": {
+     "id": 7188829826,
+     "username": "Riswanvpnbot"
+    }
    },
    "ts": 1793946232197
   }
