@@ -34,13 +34,18 @@
  "sess": {
   "5521096873": {
    "mod": "pj",
-   "step": "token",
+   "step": "adminid",
    "data": {
     "mode": "baru",
     "durasi": 30,
-    "harga": 15000
+    "harga": 15000,
+    "tok": "7188829826:AAGDWpQ6xsiah33xoDrGP1rlNn7vcXuC4yg",
+    "bot": {
+     "id": 7188829826,
+     "username": "Riswanvpnbot"
+    }
    },
-   "ts": 1793948341434
+   "ts": 1793948377632
   }
  },
  "trx": [
