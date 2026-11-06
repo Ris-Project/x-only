@@ -47,6 +47,16 @@
  "sess": {},
  "trx": [
   {
+   "id": "TR-mw57wsmuQ48",
+   "chat_id": 0,
+   "jenis": "trial",
+   "ket": "Trial SSH tryws81ukaadk @indo_v2 (60 menit) — WEB",
+   "harga": 0,
+   "metode": "gratis",
+   "status": "sukses",
+   "t": "2026-11-06T16:57:43.158Z"
+  },
+  {
    "id": "TR-mw57wji1ZRH",
    "chat_id": 0,
    "jenis": "trial",
@@ -839,7 +849,7 @@
     "WEB:2a09:bac1:34a0:28::2e4:bc": 2,
     "WEB:2a09:bac5:3a12:1d05::2e4:bc": 1,
     "WEB:2a09:bac5:3a13:25d7::3c5:52": 1,
-    "WEB:2a09:bac5:3a15:25b9::3c2:46": 1
+    "WEB:2a09:bac5:3a15:25b9::3c2:46": 2
    }
   },
   "aktif": [
@@ -948,6 +958,16 @@
     "ip": "2a09:bac5:3a15:25b9::3c2:46",
     "buat": 1793984251321,
     "hapus": 1793987850940
+   },
+   {
+    "jenis": "ssh",
+    "user": "TrialSSH644",
+    "sid": "mw43nas8",
+    "chat_id": 0,
+    "web": true,
+    "ip": "2a09:bac5:3a15:25b9::3c2:46",
+    "buat": 1793984263158,
+    "hapus": 1793987863110
    }
   ]
  },
