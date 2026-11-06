@@ -998,14 +998,6 @@
   "aktif": [
    {
     "jenis": "vmess",
-    "user": "TrialVM657",
-    "sid": "mw43nas8",
-    "chat_id": 7545471466,
-    "buat": 1793916658083,
-    "hapus": 1793920258083
-   },
-   {
-    "jenis": "vmess",
     "user": "TrialVM080",
     "sid": "mw43nas8",
     "chat_id": 7545471466,
