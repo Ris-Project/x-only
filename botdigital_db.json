@@ -44,7 +44,16 @@
    "joined": "2026-11-06T07:36:32.993Z"
   }
  },
- "sess": {},
+ "sess": {
+  "5521096873": {
+   "mod": "pj",
+   "step": "paket",
+   "data": {
+    "mode": "baru"
+   },
+   "ts": 1793962182174
+  }
+ },
  "trx": [
   {
    "id": "DIG-OFG3SOOM",
