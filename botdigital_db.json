@@ -47,6 +47,15 @@
  "sess": {},
  "trx": [
   {
+   "id": "WEB-YW83AC6H0QT",
+   "chat_id": 0,
+   "jenis": "akunvpn-web",
+   "ket": "Akun Vmess litaVM799 @indo_v2 (30 hari) — WEB",
+   "harga": 8000,
+   "status": "sukses",
+   "t": "2026-11-06T12:45:46.758Z"
+  },
+  {
    "id": "TR-mw4wnhxv",
    "chat_id": 8754934796,
    "jenis": "trial",
@@ -255,7 +264,7 @@
    "trx_id": "DIG-bf7b3a5c-73ab-482a-b2ff-c2394f7cc924",
    "qr": "00020101021226670016COM.NOBUBANK.WWW01189360050300000907180214822015831009970303UMI51440014ID.CO.QRIS.WWW0215ID20254530638560303UMI52046533530336054078000.005802ID5918Eris Store Payment6011TASIKMALAYA61054611162070703A0163041AF5",
    "deadline": 1793970319990,
-   "status": "paid",
+   "status": "done",
    "data": {
     "web": true,
     "ip": "2a09:bac1:34a0:28::2e4:bc",
@@ -272,7 +281,34 @@
    },
    "dibuat": "2026-11-06T12:45:19.990Z",
    "cek": 1793969136873,
-   "paid_at": "2026-11-06T12:45:43.332Z"
+   "paid_at": "2026-11-06T12:45:43.332Z",
+   "hasil": {
+    "judul": "AKUN PREMIUM VMESS",
+    "username": "litaVM799",
+    "password": "",
+    "uuid": "348a4ba4-128f-4f43-8e59-d904faf343d0",
+    "domain": "idv2.sanx.cloud",
+    "expired": "06 Dec, 2026",
+    "quota": "350 GB",
+    "ip_limit": "2",
+    "bug": "104.17.3.81",
+    "bug_mode": "ws",
+    "links": [
+     {
+      "label": "VMESS Non-TLS (Port 80)",
+      "link": "vmess://eyJ2IjoiMiIsInBzIjoibGl0YVZNNzk5IiwiYWRkIjoiMTA0LjE3LjMuODEiLCJwb3J0IjoiODAiLCJpZCI6IjM0OGE0YmE0LTEyOGYtNGY0My04ZTU5LWQ5MDRmYWYzNDNkMCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdmlpcC12bWVzcyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImlkdjIuc2FueC5jbG91ZCIsInRscyI6Im5vbmUiLCJzbmkiOiJpZHYyLnNhbnguY2xvdWQifQ=="
+     },
+     {
+      "label": "VMESS TLS (Port 443)",
+      "link": "vmess://eyJ2IjoiMiIsInBzIjoibGl0YVZNNzk5IiwiYWRkIjoiMTA0LjE3LjMuODEiLCJwb3J0IjoiNDQzIiwiaWQiOiIzNDhhNGJhNC0xMjhmLTRmNDMtOGU1OS1kOTA0ZmFmMzQzZDAiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZpaXAtdm1lc3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJpZHYyLnNhbnguY2xvdWQiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJpZHYyLnNhbnguY2xvdWQifQ=="
+     },
+     {
+      "label": "VMESS gRPC (Stabil)",
+      "link": "vmess://eyJ2IjoiMiIsInBzIjoibGl0YVZNNzk5IiwiYWRkIjoiMTA0LjE3LjMuODEiLCJwb3J0IjoiNDQzIiwiaWQiOiIzNDhhNGJhNC0xMjhmLTRmNDMtOGU1OS1kOTA0ZmFmMzQzZDAiLCJhaWQiOiIwIiwibmV0IjoiZ3JwYyIsInBhdGgiOiJ2bWVzcy1ncnBjIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiaWR2Mi5zYW54LmNsb3VkIiwidGxzIjoidGxzIiwic25pIjoiaWR2Mi5zYW54LmNsb3VkIn0="
+     }
+    ]
+   },
+   "selesai": "2026-11-06T12:45:46.758Z"
   },
   {
    "id": "DIG-OFG3SOOM",
@@ -652,7 +688,17 @@
    "tries": 0
   }
  ],
- "akunVPN": [],
+ "akunVPN": [
+  {
+   "jenis": "vmess",
+   "user": "litaVM799",
+   "sid": "mw43nas8",
+   "server": "indo_v2",
+   "chat_id": 0,
+   "web": true,
+   "t": "2026-11-06T12:45:46.758Z"
+  }
+ ],
  "pinjam": {
   "list": {
    "PJ-UT3RUD6R": {
