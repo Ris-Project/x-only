@@ -4,7 +4,14 @@
  ],
  "utama": 5521096873,
  "users": {},
- "sess": {},
+ "sess": {
+  "5521096873": {
+   "mod": "adm",
+   "step": "srv_domain",
+   "data": {},
+   "ts": 1793948637034
+  }
+ },
  "trx": [],
  "topup": [
   {
