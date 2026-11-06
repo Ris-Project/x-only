@@ -227,7 +227,7 @@
    "trx_id": "DIG-bc8b66d6-2877-42af-aa46-53baa4b4c1b4",
    "qr": "00020101021226670016COM.NOBUBANK.WWW01189360050300000907180214822015831009970303UMI51440014ID.CO.QRIS.WWW0215ID20254530638560303UMI520465335303360540815000.005802ID5918Eris Store Payment6011TASIKMALAYA61054611162070703A016304D6F0",
    "deadline": 1793952741064,
-   "status": "pending",
+   "status": "paid",
    "data": {
     "mode": "baru",
     "durasi": 30,
@@ -244,7 +244,8 @@
     }
    },
    "dibuat": "2026-11-06T07:52:21.064Z",
-   "msg_id": 16941
+   "msg_id": 16941,
+   "paid_at": "2026-11-06T07:52:43.205Z"
   },
   {
    "id": "ID-MK1TGBFB",
