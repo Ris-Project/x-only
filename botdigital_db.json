@@ -489,7 +489,14 @@
   "pln": []
  },
  "settings": {
-  "worker_url": "https://layanandigital.scpremium988.workers.dev"
+  "worker_url": "https://layanandigital.scpremium988.workers.dev",
+  "pj_mode": "gratis",
+  "pj_mode_ubah": {
+   "oleh": 7545471466,
+   "dari": "sewa",
+   "ke": "gratis",
+   "t": "2026-11-06T11:31:04.193Z"
+  }
  },
  "meta": {
   "dibuat": "2026-11-06"
