@@ -4,7 +4,14 @@
  ],
  "utama": 5521096873,
  "users": {},
- "sess": {},
+ "sess": {
+  "5521096873": {
+   "mod": "adm",
+   "step": "setqr_id",
+   "data": {},
+   "ts": 1793947171259
+  }
+ },
  "trx": [
   {
    "id": "TR-mw4lnt16",
