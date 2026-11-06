@@ -5,7 +5,18 @@
  "utama": 5521096873,
  "users": {},
  "sess": {},
- "trx": [],
+ "trx": [
+  {
+   "id": "TR-mw4lnt16",
+   "chat_id": 5521096873,
+   "jenis": "trial",
+   "ket": "Trial Trojan trynryms9nmx3 @indo_v2 (60 menit)",
+   "harga": 0,
+   "metode": "gratis",
+   "status": "sukses",
+   "t": "2026-11-06T06:34:52.218Z"
+  }
+ ],
  "topup": [
   {
    "id": "DIG-LDZVSOMD",
@@ -38,8 +49,21 @@
  ],
  "akunVPN": [],
  "trial": {
-  "t60": {},
-  "aktif": []
+  "t60": {
+   "2026-11-06": {
+    "5521096873": 1
+   }
+  },
+  "aktif": [
+   {
+    "jenis": "trojan",
+    "user": "TrialTR858",
+    "sid": "mw43nas8",
+    "chat_id": 5521096873,
+    "buat": 1793946892218,
+    "hapus": 1793950492218
+   }
+  ]
  },
  "settings": {
   "nama_store": "@Riswanvpnbot",
