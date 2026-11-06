@@ -58,7 +58,7 @@
   },
   "5521096873": {
    "mod": "pj",
-   "step": "adminid",
+   "step": "confirm",
    "data": {
     "mode": "baru",
     "durasi": 30,
@@ -67,9 +67,11 @@
     "bot": {
      "id": 7957868561,
      "username": "vpsrwbot"
-    }
+    },
+    "adminId": 5521096873,
+    "gratis": false
    },
-   "ts": 1793993355076
+   "ts": 1793993372643
   }
  },
  "trx": [
