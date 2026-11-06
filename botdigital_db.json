@@ -34,12 +34,13 @@
  "sess": {
   "7545471466": {
    "mod": "adm",
-   "step": "svr_nama",
+   "step": "svr_quota",
    "data": {
     "domain": "tes.com",
-    "auth": "jahsu"
+    "auth": "jahsu",
+    "nama": "sgg"
    },
-   "ts": 1793949765741
+   "ts": 1793949770048
   }
  },
  "trx": [
