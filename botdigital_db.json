@@ -61,6 +61,16 @@
  },
  "trx": [
   {
+   "id": "TR-mw58gwrpV0G",
+   "chat_id": 0,
+   "jenis": "trial",
+   "ket": "Trial Vless trygw56p9irxa @indo_v2 (60 menit) — WEB",
+   "harga": 0,
+   "metode": "gratis",
+   "status": "sukses",
+   "t": "2026-11-06T17:13:21.637Z"
+  },
+  {
    "id": "TR-mw57wsmuQ48",
    "chat_id": 0,
    "jenis": "trial",
@@ -855,7 +865,11 @@
  },
  "trial": {
   "t3": {},
-  "t60": {},
+  "t60": {
+   "2026-11-07": {
+    "WEB:2a09:bac1:34c0:28::3c1:4e": 1
+   }
+  },
   "aktif": [
    {
     "jenis": "vmess",
@@ -972,6 +986,16 @@
     "ip": "2a09:bac5:3a15:25b9::3c2:46",
     "buat": 1793984263158,
     "hapus": 1793987863110
+   },
+   {
+    "jenis": "vless",
+    "user": "TrialVL242",
+    "sid": "mw43nas8",
+    "chat_id": 0,
+    "web": true,
+    "ip": "2a09:bac1:34c0:28::3c1:4e",
+    "buat": 1793985201637,
+    "hapus": 1793988801637
    }
   ]
  },
