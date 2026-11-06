@@ -21,13 +21,14 @@
  "sess": {
   "5521096873": {
    "mod": "adm",
-   "step": "svr_quota",
+   "step": "svr_iplimit",
    "data": {
     "domain": "tes.com",
     "auth": "hiaga",
-    "nama": "sg"
+    "nama": "sg",
+    "quota": 0
    },
-   "ts": 1793965141146
+   "ts": 1793965145785
   }
  },
  "trx": [],
