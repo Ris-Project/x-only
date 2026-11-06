@@ -49,6 +49,16 @@
  },
  "trx": [
   {
+   "id": "GR-MW4UT4NS",
+   "chat_id": 5521096873,
+   "jenis": "pinjam",
+   "ket": "Sewa bot @vpsrwbot 30 hari",
+   "harga": 0,
+   "metode": "gratis",
+   "status": "sukses",
+   "t": "2026-11-06T10:50:59.368Z"
+  },
+  {
    "id": "DIG-OFG3SOOM",
    "chat_id": 5521096873,
    "jenis": "pinjam",
@@ -606,14 +616,16 @@
     "harga": 0,
     "metode": "gratis",
     "dibuat": "2026-11-06T10:50:55.962Z",
-    "expire": 0,
-    "active": false,
+    "expire": 1796554259368,
+    "active": true,
     "suspended": false,
-    "status": "proses",
+    "status": "aktif",
     "warns": {
      "d3": false,
      "d1": false
-    }
+    },
+    "botId": 7957868561,
+    "botUsername": "vpsrwbot"
    }
   },
   "byUser": {
