@@ -45,19 +45,7 @@
   }
  },
  "sess": {
-  "7545471466": {
-   "mod": "adm",
-   "step": "svr_harga",
-   "data": {
-    "domain": "tesku.sanx.cloud",
-    "auth": "uagay",
-    "nama": "TESSMATI",
-    "quota": 100,
-    "iplimit": 1,
-    "batas": 50
-   },
-   "ts": 1793978483419
-  }
+  "7545471466": null
  },
  "trx": [
   {
@@ -747,6 +735,16 @@
    "harga": 5000,
    "quota": 350,
    "iplimit": 2,
+   "batas": 50
+  },
+  {
+   "id": "mw54gzuu",
+   "nama": "TESSMATI",
+   "domain": "tesku.sanx.cloud",
+   "auth": "uagay",
+   "harga": 1000,
+   "quota": 100,
+   "iplimit": 1,
    "batas": 50
   }
  ],
