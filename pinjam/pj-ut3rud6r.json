@@ -21,11 +21,12 @@
  "sess": {
   "5521096873": {
    "mod": "adm",
-   "step": "svr_auth",
+   "step": "svr_nama",
    "data": {
-    "domain": "tes.com"
+    "domain": "tes.com",
+    "auth": "hiaga"
    },
-   "ts": 1793965133788
+   "ts": 1793965138347
   }
  },
  "trx": [],
