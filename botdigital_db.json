@@ -47,11 +47,13 @@
  "sess": {
   "8754934796": {
    "mod": "pj",
-   "step": "paket",
+   "step": "token",
    "data": {
-    "mode": "baru"
+    "mode": "baru",
+    "durasi": 30,
+    "harga": 15000
    },
-   "ts": 1793964825497
+   "ts": 1793964832617
   }
  },
  "trx": [
