@@ -47,12 +47,13 @@
  "sess": {
   "7545471466": {
    "mod": "adm",
-   "step": "svr_nama",
+   "step": "svr_quota",
    "data": {
     "domain": "testing.com",
-    "auth": "hauav"
+    "auth": "hauav",
+    "nama": "SG22"
    },
-   "ts": 1793971122476
+   "ts": 1793971128475
   }
  },
  "trx": [
