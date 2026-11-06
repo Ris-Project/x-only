@@ -61,6 +61,15 @@
  },
  "trx": [
   {
+   "id": "WEB-8IJGVDHHRO0",
+   "chat_id": 0,
+   "jenis": "akunvpn-web",
+   "ket": "Akun Vmess umarVM265 @indo_v2 (1 hari) — WEB",
+   "harga": 1500,
+   "status": "sukses",
+   "t": "2026-11-06T17:15:09.033Z"
+  },
+  {
    "id": "TR-mw58gwrpV0G",
    "chat_id": 0,
    "jenis": "trial",
@@ -366,7 +375,7 @@
    "trx_id": "DIG-b4425b1c-9456-42ea-9701-4bcb53cb7515",
    "qr": "00020101021226670016COM.NOBUBANK.WWW01189360050300000907180214822015831009970303UMI51440014ID.CO.QRIS.WWW0215ID20254530638560303UMI52046533530336054071500.005802ID5918Eris Store Payment6011TASIKMALAYA61054611162070703A016304A79C",
    "deadline": 1793986477711,
-   "status": "paid",
+   "status": "done",
    "data": {
     "web": true,
     "ip": "2a09:bac1:34c0:28::3c1:4e",
@@ -383,7 +392,34 @@
    },
    "dibuat": "2026-11-06T17:14:37.711Z",
    "cek": 1793985304637,
-   "paid_at": "2026-11-06T17:15:05.913Z"
+   "paid_at": "2026-11-06T17:15:05.913Z",
+   "hasil": {
+    "judul": "AKUN PREMIUM VMESS",
+    "username": "umarVM265",
+    "password": "",
+    "uuid": "4432ece4-0bd0-4890-83a9-695468e44f3c",
+    "domain": "idv2.sanx.cloud",
+    "expired": "08 Nov, 2026",
+    "quota": "10 GB",
+    "ip_limit": "3",
+    "bug": "104.17.3.81",
+    "bug_mode": "ws",
+    "links": [
+     {
+      "label": "VMESS Non-TLS (Port 80)",
+      "link": "vmess://eyJ2IjoiMiIsInBzIjoidW1hclZNMjY1IiwiYWRkIjoiMTA0LjE3LjMuODEiLCJwb3J0IjoiODAiLCJpZCI6IjQ0MzJlY2U0LTBiZDAtNDg5MC04M2E5LTY5NTQ2OGU0NGYzYyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdmlpcC12bWVzcyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImlkdjIuc2FueC5jbG91ZCIsInRscyI6Im5vbmUiLCJzbmkiOiJpZHYyLnNhbnguY2xvdWQifQ=="
+     },
+     {
+      "label": "VMESS TLS (Port 443)",
+      "link": "vmess://eyJ2IjoiMiIsInBzIjoidW1hclZNMjY1IiwiYWRkIjoiMTA0LjE3LjMuODEiLCJwb3J0IjoiNDQzIiwiaWQiOiI0NDMyZWNlNC0wYmQwLTQ4OTAtODNhOS02OTU0NjhlNDRmM2MiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZpaXAtdm1lc3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJpZHYyLnNhbnguY2xvdWQiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJpZHYyLnNhbnguY2xvdWQifQ=="
+     },
+     {
+      "label": "VMESS gRPC (Stabil)",
+      "link": "vmess://eyJ2IjoiMiIsInBzIjoidW1hclZNMjY1IiwiYWRkIjoiMTA0LjE3LjMuODEiLCJwb3J0IjoiNDQzIiwiaWQiOiI0NDMyZWNlNC0wYmQwLTQ4OTAtODNhOS02OTU0NjhlNDRmM2MiLCJhaWQiOiIwIiwibmV0IjoiZ3JwYyIsInBhdGgiOiJ2bWVzcy1ncnBjIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiaWR2Mi5zYW54LmNsb3VkIiwidGxzIjoidGxzIiwic25pIjoiaWR2Mi5zYW54LmNsb3VkIn0="
+     }
+    ]
+   },
+   "selesai": "2026-11-06T17:15:09.033Z"
   },
   {
    "id": "WEB-358GL63BC33",
@@ -1070,6 +1106,15 @@
    "chat_id": 0,
    "web": true,
    "t": "2026-11-06T14:44:35.347Z"
+  },
+  {
+   "jenis": "vmess",
+   "user": "umarVM265",
+   "sid": "mw43nas8",
+   "server": "indo_v2",
+   "chat_id": 0,
+   "web": true,
+   "t": "2026-11-06T17:15:09.033Z"
   }
  ],
  "pinjam": {
