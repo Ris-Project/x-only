@@ -7,14 +7,15 @@
  "sess": {
   "5521096873": {
    "mod": "adm",
-   "step": "svr_iplimit",
+   "step": "svr_batas",
    "data": {
     "domain": "tes.com",
     "auth": "jajsu",
     "nama": "id",
-    "quota": 100
+    "quota": 100,
+    "iplimit": 1
    },
-   "ts": 1793949701848
+   "ts": 1793949708221
   }
  },
  "trx": [],
