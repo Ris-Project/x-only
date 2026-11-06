@@ -490,12 +490,12 @@
  },
  "settings": {
   "worker_url": "https://layanandigital.scpremium988.workers.dev",
-  "pj_mode": "gratis",
+  "pj_mode": "sewa",
   "pj_mode_ubah": {
    "oleh": 7545471466,
-   "dari": "sewa",
-   "ke": "gratis",
-   "t": "2026-11-06T11:31:04.193Z"
+   "dari": "gratis",
+   "ke": "sewa",
+   "t": "2026-11-06T11:33:24.584Z"
   }
  },
  "meta": {
