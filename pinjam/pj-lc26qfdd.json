@@ -1,0 +1,42 @@
+{
+ "admins": [
+  5521096873
+ ],
+ "utama": 5521096873,
+ "users": {},
+ "sess": {},
+ "trx": [],
+ "topup": [],
+ "userIps": [],
+ "servers": [
+  {
+   "id": "mw43nas8",
+   "nama": "indo_v2",
+   "domain": "idv2.sanx.cloud",
+   "auth": "2a0a85",
+   "harga": 10000,
+   "quota": 350,
+   "iplimit": 2,
+   "batas": 0
+  }
+ ],
+ "akunVPN": [],
+ "trial": {
+  "t60": {},
+  "aktif": []
+ },
+ "settings": {
+  "nama_store": "@Riswanvpnbot",
+  "wajib_join": "",
+  "notif_channel": "",
+  "worker_url": "https://layanandigital.scpremium988.workers.dev"
+ },
+ "meta": {
+  "dibuat": "2026-11-06",
+  "pinjam": {
+   "id": "PJ-LC26QFDD",
+   "owner": 5521096873,
+   "dibuat": "2026-11-06T06:25:44.676Z"
+  }
+ }
+}
