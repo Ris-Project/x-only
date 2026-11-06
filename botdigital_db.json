@@ -34,9 +34,12 @@
  "sess": {
   "7545471466": {
    "mod": "adm",
-   "step": "ipdel",
-   "data": {},
-   "ts": 1793938409561
+   "step": "srv_edit",
+   "data": {
+    "field": "harga",
+    "id": "mw43nas8"
+   },
+   "ts": 1793938474738
   }
  },
  "trx": [
