@@ -67,7 +67,8 @@
    "deadline": 1793966614340,
    "status": "pending",
    "data": {},
-   "dibuat": "2026-11-06T11:43:34.340Z"
+   "dibuat": "2026-11-06T11:43:34.340Z",
+   "msg_id": 2245
   }
  ],
  "userIps": [],
