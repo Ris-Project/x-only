@@ -47,6 +47,16 @@
  "sess": {},
  "trx": [
   {
+   "id": "TR-mw4zxjll80I",
+   "chat_id": 0,
+   "jenis": "trial",
+   "ket": "Trial SSH tryxitpq26px3 @indo_v2 (60 menit) — WEB",
+   "harga": 0,
+   "metode": "gratis",
+   "status": "sukses",
+   "t": "2026-11-06T13:14:21.177Z"
+  },
+  {
    "id": "WEB-ZAHTMYSLQDQ",
    "chat_id": 0,
    "jenis": "akunvpn-web",
@@ -672,7 +682,8 @@
    "2026-11-06": {
     "5521096873": 2,
     "7545471466": 5,
-    "8754934796": 2
+    "8754934796": 2,
+    "WEB:2a09:bac1:34a0:28::2e4:bc": 1
    }
   },
   "aktif": [
@@ -731,6 +742,16 @@
     "chat_id": 8754934796,
     "buat": 1793965353619,
     "hapus": 1793968953619
+   },
+   {
+    "jenis": "ssh",
+    "user": "TrialSSH169",
+    "sid": "mw43nas8",
+    "chat_id": 0,
+    "web": true,
+    "ip": "2a09:bac1:34a0:28::2e4:bc",
+    "buat": 1793970861177,
+    "hapus": 1793974461177
    }
   ]
  },
