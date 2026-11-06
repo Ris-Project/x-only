@@ -47,13 +47,14 @@
  "sess": {
   "7545471466": {
    "mod": "vpn2",
-   "step": "user",
+   "step": "bugwait",
    "data": {
     "act": "cre",
     "jenis": "vmess",
-    "sid": "mw43nas8"
+    "sid": "mw43nas8",
+    "username": "tess"
    },
-   "ts": 1793992939697
+   "ts": 1793992945403
   }
  },
  "trx": [
