@@ -19,24 +19,23 @@
   }
  },
  "sess": {
-  "5521096873": {
-   "mod": "adm",
-   "step": "svr_harga",
-   "data": {
-    "domain": "tes.com",
-    "auth": "hiaga",
-    "nama": "sg",
-    "quota": 0,
-    "iplimit": 2,
-    "batas": 0
-   },
-   "ts": 1793965153710
-  }
+  "5521096873": null
  },
  "trx": [],
  "topup": [],
  "userIps": [],
- "servers": [],
+ "servers": [
+  {
+   "id": "mw4wjaex",
+   "nama": "sg",
+   "domain": "tes.com",
+   "auth": "hiaga",
+   "harga": 100,
+   "quota": 0,
+   "iplimit": 2,
+   "batas": 0
+  }
+ ],
  "akunVPN": [],
  "trial": {
   "t60": {},
