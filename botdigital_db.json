@@ -56,23 +56,7 @@
    },
    "ts": 1793992945403
   },
-  "5521096873": {
-   "mod": "pj",
-   "step": "confirm",
-   "data": {
-    "mode": "baru",
-    "durasi": 30,
-    "harga": 15000,
-    "tok": "7957868561:AAGeYwY_A4aIaE6TxZc7U21lxjw4ynq1wAA",
-    "bot": {
-     "id": 7957868561,
-     "username": "vpsrwbot"
-    },
-    "adminId": 5521096873,
-    "gratis": false
-   },
-   "ts": 1793993372643
-  }
+  "5521096873": null
  },
  "trx": [
   {
@@ -410,6 +394,34 @@
   }
  ],
  "topup": [
+  {
+   "id": "DIG-DC5APZKF",
+   "chat_id": 5521096873,
+   "jenis": "pinjam",
+   "ket": "Pinjam bot @vpsrwbot 30 hari",
+   "base": 15000,
+   "total": 15000,
+   "trx_id": "DIG-88e7193d-5146-4421-a5d2-e47368a26d4d",
+   "qr": "00020101021226670016COM.NOBUBANK.WWW01189360050300000907180214822015831009970303UMI51440014ID.CO.QRIS.WWW0215ID20254530638560303UMI520465335303360540815000.005802ID5918Eris Store Payment6011TASIKMALAYA61054611162070703A016304D6F0",
+   "deadline": 1793994577489,
+   "status": "pending",
+   "data": {
+    "mode": "baru",
+    "durasi": 30,
+    "harga": 15000,
+    "pj": {
+     "tok": "7957868561:AAGeYwY_A4aIaE6TxZc7U21lxjw4ynq1wAA",
+     "bot": {
+      "id": 7957868561,
+      "username": "vpsrwbot"
+     },
+     "adminId": 5521096873,
+     "ownerNama": "Abangstore",
+     "ownerUname": "abangstore123"
+    }
+   },
+   "dibuat": "2026-11-06T19:29:37.489Z"
+  },
   {
    "id": "WEB-8IJGVDHHRO0",
    "chat_id": 0,
