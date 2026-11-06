@@ -36,6 +36,16 @@
  },
  "trx": [
   {
+   "id": "DIG-LBD48XLQ",
+   "chat_id": 5521096873,
+   "jenis": "pinjam",
+   "ket": "Sewa bot @Riswanvpnbot 30 hari",
+   "harga": 90000,
+   "metode": "qris",
+   "status": "sukses",
+   "t": "2026-11-06T06:25:45.605Z"
+  },
+  {
    "id": "TR-mw4htwah",
    "chat_id": 7545471466,
    "jenis": "trial",
@@ -434,8 +444,35 @@
  ],
  "akunVPN": [],
  "pinjam": {
-  "list": {},
-  "byUser": {},
+  "list": {
+   "PJ-LC26QFDD": {
+    "id": "PJ-LC26QFDD",
+    "ownerId": 5521096873,
+    "ownerNama": "Abangstore",
+    "ownerUname": "abangstore123",
+    "token": "7188829826:AAGDWpQ6xsiah33xoDrGP1rlNn7vcXuC4yg",
+    "adminId": 5521096873,
+    "dbPath": "pinjam/pj-lc26qfdd.json",
+    "secret": "pjs-mw4lc26q3gn9tmr7u2",
+    "durasi": 30,
+    "harga": 90000,
+    "metode": "qris",
+    "dibuat": "2026-11-06T06:25:44.210Z",
+    "expire": 1796538345605,
+    "active": true,
+    "suspended": false,
+    "status": "aktif",
+    "warns": {
+     "d3": false,
+     "d1": false
+    },
+    "botId": 7188829826,
+    "botUsername": "Riswanvpnbot"
+   }
+  },
+  "byUser": {
+   "5521096873": "PJ-LC26QFDD"
+  },
   "antre": []
  }
 }
