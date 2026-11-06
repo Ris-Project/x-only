@@ -590,35 +590,8 @@
  ],
  "akunVPN": [],
  "pinjam": {
-  "list": {
-   "PJ-OFY546QD": {
-    "id": "PJ-OFY546QD",
-    "ownerId": 5521096873,
-    "ownerNama": "Abangstore",
-    "ownerUname": "abangstore123",
-    "token": "7957868561:AAGeYwY_A4aIaE6TxZc7U21lxjw4ynq1wAA",
-    "adminId": 5521096873,
-    "dbPath": "pinjam/pj-ofy546qd.json",
-    "secret": "pjs-mw4ofy54aquumdv9kw",
-    "durasi": 30,
-    "harga": 15000,
-    "metode": "qris",
-    "dibuat": "2026-11-06T07:52:44.440Z",
-    "expire": 1796543565623,
-    "active": true,
-    "suspended": false,
-    "status": "aktif",
-    "warns": {
-     "d3": false,
-     "d1": false
-    },
-    "botId": 7957868561,
-    "botUsername": "vpsrwbot"
-   }
-  },
-  "byUser": {
-   "5521096873": "PJ-OFY546QD"
-  },
+  "list": {},
+  "byUser": {},
   "antre": []
  }
 }
