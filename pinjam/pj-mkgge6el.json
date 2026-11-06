@@ -6,7 +6,22 @@
  "users": {},
  "sess": {},
  "trx": [],
- "topup": [],
+ "topup": [
+  {
+   "id": "ID-MN0NYOLR",
+   "chat_id": 5521096873,
+   "jenis": "topup",
+   "ket": "TopUp saldo Rp10.000",
+   "base": 10000,
+   "total": 10000,
+   "trx_id": "ID-4b7b77b8-b0fb-486a-9304-38d207a00867",
+   "qr": "00020101021226670016COM.NOBUBANK.WWW01189360050300000907180214822015831009970303UMI51440014ID.CO.QRIS.WWW0215ID20254530638560303UMI520465335303360540810000.005802ID5918Eris Store Payment6011TASIKMALAYA61054611162070703A016304D3AF",
+   "deadline": 1793949735070,
+   "status": "pending",
+   "data": {},
+   "dibuat": "2026-11-06T07:02:15.070Z"
+  }
+ ],
  "userIps": [],
  "servers": [],
  "akunVPN": [],
