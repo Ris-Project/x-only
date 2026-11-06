@@ -32,22 +32,7 @@
   }
  },
  "sess": {
-  "5521096873": {
-   "mod": "pj",
-   "step": "confirm",
-   "data": {
-    "mode": "baru",
-    "durasi": 30,
-    "harga": 15000,
-    "tok": "7188829826:AAGDWpQ6xsiah33xoDrGP1rlNn7vcXuC4yg",
-    "bot": {
-     "id": 7188829826,
-     "username": "Riswanvpnbot"
-    },
-    "adminId": 5521096873
-   },
-   "ts": 1793948390324
-  }
+  "5521096873": null
  },
  "trx": [
   {
@@ -179,6 +164,34 @@
   }
  ],
  "topup": [
+  {
+   "id": "ID-MK1TGBFB",
+   "chat_id": 5521096873,
+   "jenis": "pinjam",
+   "ket": "Pinjam bot @Riswanvpnbot 30 hari",
+   "base": 15000,
+   "total": 15000,
+   "trx_id": "ID-82a4c3e5-cdee-4852-89b3-0a7efd8f9418",
+   "qr": "00020101021226670016COM.NOBUBANK.WWW01189360050300000907180214822015831009970303UMI51440014ID.CO.QRIS.WWW0215ID20254530638560303UMI520465335303360540815000.005802ID5918Eris Store Payment6011TASIKMALAYA61054611162070703A016304D6F0",
+   "deadline": 1793949596596,
+   "status": "pending",
+   "data": {
+    "mode": "baru",
+    "durasi": 30,
+    "harga": 15000,
+    "pj": {
+     "tok": "7188829826:AAGDWpQ6xsiah33xoDrGP1rlNn7vcXuC4yg",
+     "bot": {
+      "id": 7188829826,
+      "username": "Riswanvpnbot"
+     },
+     "adminId": 5521096873,
+     "ownerNama": "Abangstore",
+     "ownerUname": "abangstore123"
+    }
+   },
+   "dibuat": "2026-11-06T06:59:56.596Z"
+  },
   {
    "id": "DIG-LBD48XLQ",
    "chat_id": 5521096873,
