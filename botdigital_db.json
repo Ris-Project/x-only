@@ -47,6 +47,16 @@
  "sess": {},
  "trx": [
   {
+   "id": "TR-mw5b1dpt9A5",
+   "chat_id": 0,
+   "jenis": "trial",
+   "ket": "Trial Vmess try1d2hsmyhm8 @indo_v2 (60 menit) — WEB",
+   "harga": 0,
+   "metode": "gratis",
+   "status": "sukses",
+   "t": "2026-11-06T18:25:15.953Z"
+  },
+  {
    "id": "TR-mw5a68ljADO",
    "chat_id": 7545471466,
    "jenis": "trial",
@@ -929,7 +939,8 @@
   "t60": {
    "2026-11-07": {
     "WEB:2a09:bac1:34c0:28::3c1:4e": 1,
-    "7545471466": 1
+    "7545471466": 1,
+    "WEB:2a09:bac1:3480:28::4dc:36": 1
    }
   },
   "aktif": [
@@ -1068,6 +1079,16 @@
     "ip": "",
     "buat": 1793988062983,
     "hapus": 1793991662983
+   },
+   {
+    "jenis": "vmess",
+    "user": "TrialVM905",
+    "sid": "mw43nas8",
+    "chat_id": 0,
+    "web": true,
+    "ip": "2a09:bac1:3480:28::4dc:36",
+    "buat": 1793989515953,
+    "hapus": 1793993115953
    }
   ]
  },
