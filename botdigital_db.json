@@ -44,7 +44,14 @@
    "joined": "2026-11-06T07:36:32.993Z"
   }
  },
- "sess": {},
+ "sess": {
+  "7545471466": {
+   "mod": "adm",
+   "step": "svr_domain",
+   "data": {},
+   "ts": 1793975706161
+  }
+ },
  "trx": [
   {
    "id": "TR-mw51ja6aCP0",
@@ -283,6 +290,33 @@
   }
  ],
  "topup": [
+  {
+   "id": "WEB-358GL63BC33",
+   "chat_id": 0,
+   "jenis": "webvpn",
+   "ket": "Akun Vmess bebek @indo_v2 (1 hari) — Web",
+   "base": 500,
+   "total": 500,
+   "trx_id": "DIG-06e653a1-8d4c-44cc-8ca5-b9a413ddce8a",
+   "qr": "00020101021226670016COM.NOBUBANK.WWW01189360050300000907180214822015831009970303UMI51440014ID.CO.QRIS.WWW0215ID20254530638560303UMI5204653353033605406500.005802ID5918Eris Store Payment6011TASIKMALAYA61054611162070703A0163043C91",
+   "deadline": 1793977458837,
+   "status": "pending",
+   "data": {
+    "web": true,
+    "ip": "2a09:bac1:34a0:28::2e4:bc",
+    "sid": "mw43nas8",
+    "proto": "vmess",
+    "username": "bebek",
+    "password": "",
+    "bugDomain": "support.zoom.us",
+    "bugMode": "wildcard",
+    "exp": 1,
+    "quota": 10,
+    "iplimit": 2,
+    "ipExtra": 0
+   },
+   "dibuat": "2026-11-06T14:44:18.837Z"
+  },
   {
    "id": "WEB-2ASKXBHNS0W",
    "chat_id": 0,
