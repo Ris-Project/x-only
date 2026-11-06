@@ -34,7 +34,7 @@
  "sess": {
   "5521096873": {
    "mod": "pj",
-   "step": "adminid",
+   "step": "confirm",
    "data": {
     "mode": "baru",
     "durasi": 30,
@@ -43,9 +43,10 @@
     "bot": {
      "id": 7188829826,
      "username": "Riswanvpnbot"
-    }
+    },
+    "adminId": 5521096873
    },
-   "ts": 1793946299707
+   "ts": 1793946304601
   }
  },
  "trx": [
