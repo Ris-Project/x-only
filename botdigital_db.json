@@ -47,9 +47,11 @@
  "sess": {
   "7545471466": {
    "mod": "adm",
-   "step": "svr_domain",
-   "data": {},
-   "ts": 1793975706161
+   "step": "svr_auth",
+   "data": {
+    "domain": "idv2.sanx.cloud"
+   },
+   "ts": 1793977489169
   }
  },
  "trx": [
@@ -755,7 +757,7 @@
   "pln": []
  },
  "settings": {
-  "worker_url": "https://digistore.sanx.cloud",
+  "worker_url": "https://layanandigital.scpremium988.workers.dev",
   "pj_mode": "sewa",
   "pj_mode_ubah": {
    "oleh": 7545471466,
