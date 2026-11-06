@@ -666,16 +666,6 @@
    "quota": 350,
    "iplimit": 2,
    "batas": 0
-  },
-  {
-   "id": "mw503too",
-   "nama": "SG22",
-   "domain": "testing.com",
-   "auth": "hauav",
-   "harga": 5000,
-   "quota": 350,
-   "iplimit": 2,
-   "batas": 0
   }
  ],
  "gmail": {
