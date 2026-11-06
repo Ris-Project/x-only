@@ -284,6 +284,33 @@
  ],
  "topup": [
   {
+   "id": "WEB-2ASKXBHNS0W",
+   "chat_id": 0,
+   "jenis": "webvpn",
+   "ket": "Akun Vmess buuu @SG22 (30 hari) — Web",
+   "base": 5000,
+   "total": 5000,
+   "trx_id": "DIG-0df4f18b-0c40-4bfa-8648-020ef2d796aa",
+   "qr": "00020101021226670016COM.NOBUBANK.WWW01189360050300000907180214822015831009970303UMI51440014ID.CO.QRIS.WWW0215ID20254530638560303UMI52046533530336054075000.005802ID5918Eris Store Payment6011TASIKMALAYA61054611162070703A016304E72D",
+   "deadline": 1793976038577,
+   "status": "pending",
+   "data": {
+    "web": true,
+    "ip": "2a09:bac1:34a0:28::2e4:bc",
+    "sid": "mw503too",
+    "proto": "vmess",
+    "username": "buuu",
+    "password": "",
+    "bugDomain": "104.17.3.81",
+    "bugMode": "ws",
+    "exp": 30,
+    "quota": 350,
+    "iplimit": 2,
+    "ipExtra": 0
+   },
+   "dibuat": "2026-11-06T14:20:38.577Z"
+  },
+  {
    "id": "WEB-ZAHTMYSLQDQ",
    "chat_id": 0,
    "jenis": "webvpn",
