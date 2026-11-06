@@ -45,12 +45,7 @@
   }
  },
  "sess": {
-  "7545471466": {
-   "mod": "adm",
-   "step": "foto_menu",
-   "data": {},
-   "ts": 1793992846211
-  }
+  "7545471466": null
  },
  "trx": [
   {
@@ -907,7 +902,8 @@
     "up": 0,
     "at": 1793983244411
    }
-  }
+  },
+  "foto_menu": "id:AgACAgUAAxkBAAJDiGruKJJTe-UoEEoagQmmCbneRGXCAAIhFmsb-_VxV2I8MqHs5nj0AQADAgADdwADPQQ"
  },
  "meta": {
   "dibuat": "2026-11-06"
