@@ -731,16 +731,6 @@
    "quota": 350,
    "iplimit": 2,
    "batas": 0
-  },
-  {
-   "id": "mw52w61w",
-   "nama": "TESS",
-   "domain": "id.tes.com",
-   "auth": "uwgsg",
-   "harga": 5000,
-   "quota": 350,
-   "iplimit": 1,
-   "batas": 50
   }
  ],
  "gmail": {
