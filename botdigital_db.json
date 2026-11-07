@@ -481,6 +481,34 @@
  ],
  "topup": [
   {
+   "id": "WEB-COI4AS91TW6",
+   "chat_id": 0,
+   "jenis": "webvpn",
+   "ket": "Akun SSH beng @INDONESIA_V2 (1 hari) — Web",
+   "base": 500,
+   "total": 500,
+   "trx_id": "DIG-f7b726ab-864c-49ba-a6ec-1c33cb08e0ef",
+   "qr": "00020101021226670016COM.NOBUBANK.WWW01189360050300000907180214822015831009970303UMI51440014ID.CO.QRIS.WWW0215ID20254530638560303UMI5204653353033605406500.005802ID5918Eris Store Payment6011TASIKMALAYA61054611162070703A0163043C91",
+   "deadline": 1794053940538,
+   "status": "pending",
+   "data": {
+    "web": true,
+    "ip": "103.139.11.196",
+    "email": "riswanacil00@gmail.com",
+    "sid": "mw5xyqws",
+    "proto": "ssh",
+    "username": "beng",
+    "password": "beng123",
+    "bugDomain": "",
+    "bugMode": "wildcard",
+    "exp": 1,
+    "quota": 10,
+    "iplimit": 2,
+    "ipExtra": 0
+   },
+   "dibuat": "2026-11-07T11:59:00.538Z"
+  },
+  {
    "id": "WEB-7JOOM9IEJD6",
    "chat_id": 0,
    "jenis": "webvpn",
