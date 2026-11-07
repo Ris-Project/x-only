@@ -47,10 +47,10 @@
  },
  "sess": {
   "7545471466": {
-   "mod": "pjadm",
-   "step": "gratis_hari",
+   "mod": "adm",
+   "step": "svr_domain",
    "data": {},
-   "ts": 1794071256386
+   "ts": 1794072116331
   }
  },
  "trx": [
