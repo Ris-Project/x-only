@@ -518,6 +518,34 @@
  ],
  "topup": [
   {
+   "id": "WEB-KCL9FN8J5DU",
+   "chat_id": 0,
+   "jenis": "webvpn",
+   "ket": "Akun Vmess dadann @INDONESIA_V2 (30 hari) — Web",
+   "base": 8000,
+   "total": 8002,
+   "trx_id": "DIG-d744b3d5-a616-4771-9832-0471022d0ad1",
+   "qr": "00020101021226670016COM.NOBUBANK.WWW01189360050300000907180214822015831009970303UMI51440014ID.CO.QRIS.WWW0215ID20254530638560303UMI52046533530336054078002.005802ID5918Eris Store Payment6011TASIKMALAYA61054611162070703A0163041AB0",
+   "deadline": 1794066821688,
+   "status": "pending",
+   "data": {
+    "web": true,
+    "ip": "103.139.11.196",
+    "email": "riswanacil00@gmail.com",
+    "sid": "mw5xyqws",
+    "proto": "vmess",
+    "username": "dadann",
+    "password": "",
+    "bugDomain": "104.17.3.81",
+    "bugMode": "ws",
+    "exp": 30,
+    "quota": 350,
+    "iplimit": 2,
+    "ipExtra": 0
+   },
+   "dibuat": "2026-11-07T15:33:41.688Z"
+  },
+  {
    "id": "WEB-KBQ4R35EYHT",
    "chat_id": 0,
    "jenis": "webvpn",
