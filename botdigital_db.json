@@ -48,6 +48,16 @@
  "sess": {},
  "trx": [
   {
+   "id": "WEB-G5SQN0PE2OI",
+   "chat_id": 0,
+   "jenis": "akunvpn-web",
+   "ket": "Akun SSH mangSSH435 @INDONESIA_V2 (1 hari) — WEB • bayar SALDO",
+   "harga": 500,
+   "status": "sukses",
+   "byr": "saldo",
+   "t": "2026-11-07T13:36:29.772Z"
+  },
+  {
    "id": "WEBT-ET78ZQ9UX4Q",
    "chat_id": 0,
    "jenis": "topup-web",
@@ -517,7 +527,7 @@
    "trx_id": "",
    "qr": "",
    "deadline": 1794059786303,
-   "status": "paid",
+   "status": "done",
    "data": {
     "web": true,
     "ip": "103.139.11.196",
@@ -536,7 +546,30 @@
     "saldo_after": 500
    },
    "dibuat": "2026-11-07T13:36:26.303Z",
-   "paid_at": "2026-11-07T13:36:26.568Z"
+   "paid_at": "2026-11-07T13:36:26.568Z",
+   "hasil": {
+    "judul": "AKUN PREMIUM SSH",
+    "username": "mangSSH435",
+    "password": "bebek112",
+    "uuid": "SSH WS      : 80,8880,2086",
+    "domain": "idv2.sanx.cloud",
+    "expired": "08 Nov, 2026",
+    "quota": 10,
+    "ip_limit": "2 IP",
+    "bug": "",
+    "bug_mode": "wildcard",
+    "links": [
+     {
+      "label": "SSH WS HTTP (Port 80)",
+      "link": "idv2.sanx.cloud:80@mangSSH435:bebek112"
+     },
+     {
+      "label": "SSH WS HTTPS (Port 443)",
+      "link": "idv2.sanx.cloud:443@mangSSH435:bebek112"
+     }
+    ]
+   },
+   "selesai": "2026-11-07T13:36:29.772Z"
   },
   {
    "id": "WEB-FHWN8ALN4V1",
@@ -1580,6 +1613,15 @@
    "chat_id": 0,
    "web": true,
    "t": "2026-11-07T11:59:54.172Z"
+  },
+  {
+   "jenis": "ssh",
+   "user": "mangSSH435",
+   "sid": "mw5xyqws",
+   "server": "INDONESIA_V2",
+   "chat_id": 0,
+   "web": true,
+   "t": "2026-11-07T13:36:29.772Z"
   }
  ],
  "pinjam": {
