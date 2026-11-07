@@ -14,7 +14,7 @@
    "ref_by": 0,
    "ref_count": 0,
    "ref_bonus": 0,
-   "trx_count": 7,
+   "trx_count": 8,
    "joined": "2026-11-05T18:11:39.144Z"
   },
   "7545471466": {
@@ -68,6 +68,15 @@
   }
  },
  "trx": [
+  {
+   "id": "AK-mw65b40p",
+   "chat_id": 5521096873,
+   "jenis": "akunvpn",
+   "ket": "Akun Vmess AdidassVM264 @INDONESIA_V2 (30 hari)",
+   "harga": 8000,
+   "status": "sukses",
+   "t": "2026-11-07T08:32:38.425Z"
+  },
   {
    "id": "DIG-55F9R29I",
    "chat_id": 5521096873,
@@ -1295,6 +1304,14 @@
    "chat_id": 0,
    "web": true,
    "t": "2026-11-06T17:15:09.033Z"
+  },
+  {
+   "jenis": "vmess",
+   "user": "AdidassVM264",
+   "sid": "mw5xyqws",
+   "server": "INDONESIA_V2",
+   "chat_id": 5521096873,
+   "t": "2026-11-07T08:32:38.425Z"
   }
  ],
  "pinjam": {
