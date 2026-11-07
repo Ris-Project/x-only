@@ -48,6 +48,15 @@
  "sess": {},
  "trx": [
   {
+   "id": "WEBT-ET78ZQ9UX4Q",
+   "chat_id": 0,
+   "jenis": "topup-web",
+   "ket": "Topup saldo web riswanacil00@gmail.com",
+   "harga": 1000,
+   "status": "sukses",
+   "t": "2026-11-07T13:02:53.087Z"
+  },
+  {
    "id": "WEBT-EHMVMQLSFD7",
    "chat_id": 0,
    "jenis": "topup-web",
@@ -508,16 +517,18 @@
    "trx_id": "DIG-09375b35-f45e-4109-9b06-c678643c197f",
    "qr": "00020101021226670016COM.NOBUBANK.WWW01189360050300000907180214822015831009970303UMI51440014ID.CO.QRIS.WWW0215ID20254530638560303UMI52046533530336054071000.005802ID5918Eris Store Payment6011TASIKMALAYA61054611162070703A016304137E",
    "deadline": 1794057518963,
-   "status": "paid",
+   "status": "done",
    "data": {
     "web": true,
     "email": "riswanacil00@gmail.com",
     "ip": "103.139.11.196",
-    "nominal": 1000
+    "nominal": 1000,
+    "saldo_after": 1000
    },
    "dibuat": "2026-11-07T12:58:38.963Z",
    "cek": 1794056402634,
-   "paid_at": "2026-11-07T13:02:52.211Z"
+   "paid_at": "2026-11-07T13:02:52.211Z",
+   "selesai": "2026-11-07T13:02:53.087Z"
   },
   {
    "id": "WEB-EM069RZL3EK",
@@ -1554,7 +1565,9 @@
    "foto": "",
    "emoji": "😀",
    "link_kode": "",
-   "tg": 7545471466
+   "tg": 7545471466,
+   "saldo": 1000,
+   "trx_count": 1
   },
   "vpnscriswan293@gmail.com": {
    "salt": "70da742a22bfbb191c4ce568d29531c9",
