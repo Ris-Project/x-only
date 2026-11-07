@@ -53,9 +53,10 @@
     "act": "cre",
     "jenis": "vmess",
     "sid": "mw5xyqws",
-    "username": "Adidass"
+    "username": "Adidass",
+    "bugDomain": "live.iflix.com"
    },
-   "ts": 1794040330349
+   "ts": 1794040332792
   }
  },
  "trx": [
