@@ -55,6 +55,16 @@
  },
  "trx": [
   {
+   "id": "WEB-NV7Y2EDAUB6",
+   "chat_id": 0,
+   "jenis": "akunvpn-web",
+   "ket": "Akun Vmess RivalllVM047 @INDONESIA_V2 (30 hari) — WEB • bayar SALDO",
+   "harga": 10000,
+   "status": "sukses",
+   "byr": "saldo",
+   "t": "2026-11-07T17:12:16.364Z"
+  },
+  {
    "id": "WEBT-NS27DXIF9AE",
    "chat_id": 0,
    "jenis": "topup-web",
@@ -553,7 +563,7 @@
    "trx_id": "",
    "qr": "",
    "deadline": 1794072729722,
-   "status": "paid",
+   "status": "done",
    "data": {
     "web": true,
     "ip": "103.139.11.196",
@@ -572,7 +582,34 @@
     "saldo_after": 0
    },
    "dibuat": "2026-11-07T17:12:09.722Z",
-   "paid_at": "2026-11-07T17:12:12.473Z"
+   "paid_at": "2026-11-07T17:12:12.473Z",
+   "hasil": {
+    "judul": "AKUN PREMIUM VMESS",
+    "username": "RivalllVM047",
+    "password": "",
+    "uuid": "2cda8630-4048-419b-9791-720ec67ec680",
+    "domain": "idv2.sanx.cloud",
+    "expired": "08 Dec, 2026",
+    "quota": "350 GB",
+    "ip_limit": "4",
+    "bug": "live.iflix.com",
+    "bug_mode": "sni",
+    "links": [
+     {
+      "label": "VMESS Non-TLS (Port 80)",
+      "link": "vmess://eyJ2IjoiMiIsInBzIjoiUml2YWxsbFZNMDQ3IiwiYWRkIjoiaWR2Mi5zYW54LmNsb3VkIiwicG9ydCI6IjgwIiwiaWQiOiIyY2RhODYzMC00MDQ4LTQxOWItOTc5MS03MjBlYzY3ZWM2ODAiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZpaXAtdm1lc3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJpZHYyLnNhbnguY2xvdWQiLCJ0bHMiOiJub25lIiwic25pIjoibGl2ZS5pZmxpeC5jb20ifQ=="
+     },
+     {
+      "label": "VMESS TLS (Port 443)",
+      "link": "vmess://eyJ2IjoiMiIsInBzIjoiUml2YWxsbFZNMDQ3IiwiYWRkIjoiaWR2Mi5zYW54LmNsb3VkIiwicG9ydCI6IjQ0MyIsImlkIjoiMmNkYTg2MzAtNDA0OC00MTliLTk3OTEtNzIwZWM2N2VjNjgwIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii92aWlwLXZtZXNzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiaWR2Mi5zYW54LmNsb3VkIiwidGxzIjoidGxzIiwic25pIjoibGl2ZS5pZmxpeC5jb20ifQ=="
+     },
+     {
+      "label": "VMESS gRPC (Stabil)",
+      "link": "vmess://eyJ2IjoiMiIsInBzIjoiUml2YWxsbFZNMDQ3IiwiYWRkIjoiaWR2Mi5zYW54LmNsb3VkIiwicG9ydCI6IjQ0MyIsImlkIjoiMmNkYTg2MzAtNDA0OC00MTliLTk3OTEtNzIwZWM2N2VjNjgwIiwiYWlkIjoiMCIsIm5ldCI6ImdycGMiLCJwYXRoIjoidm1lc3MtZ3JwYyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImlkdjIuc2FueC5jbG91ZCIsInRscyI6InRscyIsInNuaSI6ImxpdmUuaWZsaXguY29tIn0="
+     }
+    ]
+   },
+   "selesai": "2026-11-07T17:12:16.364Z"
   },
   {
    "id": "WEBT-NS27DXIF9AE",
@@ -1863,6 +1900,15 @@
    "chat_id": 0,
    "web": true,
    "t": "2026-11-07T15:34:08.910Z"
+  },
+  {
+   "jenis": "vmess",
+   "user": "RivalllVM047",
+   "sid": "mw5xyqws",
+   "server": "INDONESIA_V2",
+   "chat_id": 0,
+   "web": true,
+   "t": "2026-11-07T17:12:16.364Z"
   }
  ],
  "pinjam": {
