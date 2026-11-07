@@ -46,19 +46,7 @@
   }
  },
  "sess": {
-  "7545471466": {
-   "mod": "adm",
-   "step": "svr_harga",
-   "data": {
-    "domain": "tes.com",
-    "auth": "haush",
-    "nama": "SG22",
-    "quota": 100,
-    "iplimit": 1,
-    "batas": 5
-   },
-   "ts": 1794038893119
-  }
+  "7545471466": null
  },
  "trx": [
   {
@@ -1048,6 +1036,16 @@
    "quota": 350,
    "iplimit": 2,
    "batas": 50
+  },
+  {
+   "id": "mw64frbf",
+   "nama": "SG22",
+   "domain": "tes.com",
+   "auth": "haush",
+   "harga": 1000,
+   "quota": 100,
+   "iplimit": 1,
+   "batas": 5
   }
  ],
  "gmail": {
