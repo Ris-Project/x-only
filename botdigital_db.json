@@ -55,6 +55,15 @@
  },
  "trx": [
   {
+   "id": "WEBT-NS27DXIF9AE",
+   "chat_id": 0,
+   "jenis": "topup-web",
+   "ket": "Topup saldo web rifalstore@gmail.com",
+   "harga": 10000,
+   "status": "sukses",
+   "t": "2026-11-07T17:10:03.138Z"
+  },
+  {
    "id": "WEB-KCL9FN8J5DU",
    "chat_id": 0,
    "jenis": "akunvpn-web",
@@ -544,16 +553,18 @@
    "trx_id": "DIG-46472220-8092-4be4-b961-5c1b72a809b4",
    "qr": "00020101021226670016COM.NOBUBANK.WWW01189360050300000907180214822015831009970303UMI51440014ID.CO.QRIS.WWW0215ID20254530638560303UMI520465335303360540810000.005802ID5918Eris Store Payment6011TASIKMALAYA61054611162070703A016304D3AF",
    "deadline": 1794072582313,
-   "status": "paid",
+   "status": "done",
    "data": {
     "web": true,
     "email": "rifalstore@gmail.com",
     "ip": "103.139.11.196",
-    "nominal": 10000
+    "nominal": 10000,
+    "saldo_after": 10000
    },
    "dibuat": "2026-11-07T17:09:42.313Z",
    "cek": 1794071400472,
-   "paid_at": "2026-11-07T17:10:01.684Z"
+   "paid_at": "2026-11-07T17:10:01.684Z",
+   "selesai": "2026-11-07T17:10:03.138Z"
   },
   {
    "id": "DIG-KI344VFK",
@@ -1891,7 +1902,9 @@
    "hash": "03c1dc9f97d86f532abe9f7e2adaf121d23b5826352db6adf475b823a4cbc3b6",
    "dibuat": "2026-11-07T17:09:09.589Z",
    "ip": "103.139.11.196",
-   "login_akhir": ""
+   "login_akhir": "",
+   "saldo": 10000,
+   "trx_count": 1
   }
  },
  "web_sess": {
