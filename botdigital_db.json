@@ -465,6 +465,20 @@
  ],
  "topup": [
   {
+   "id": "DIG-587F5AFL",
+   "chat_id": 5521096873,
+   "jenis": "topup",
+   "ket": "TopUp saldo Rp10.000",
+   "base": 10000,
+   "total": 10000,
+   "trx_id": "DIG-15e44515-7234-4d98-ae66-0a12e6d15903",
+   "qr": "00020101021226670016COM.NOBUBANK.WWW01189360050300000907180214822015831009970303UMI51440014ID.CO.QRIS.WWW0215ID20254530638560303UMI520465335303360540810000.005802ID5918Eris Store Payment6011TASIKMALAYA61054611162070703A016304D3AF",
+   "deadline": 1794041422865,
+   "status": "pending",
+   "data": {},
+   "dibuat": "2026-11-07T08:30:22.865Z"
+  },
+  {
    "id": "DIG-55F9R29I",
    "chat_id": 5521096873,
    "jenis": "pinjam",
