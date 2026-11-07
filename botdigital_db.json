@@ -1003,16 +1003,6 @@
  ],
  "servers": [
   {
-   "id": "s1",
-   "nama": "Server Singapore",
-   "domain": "sg1.example.com",
-   "auth": "rahasia1",
-   "harga": 15000,
-   "quota": 0,
-   "iplimit": 2,
-   "batas": 0
-  },
-  {
    "id": "s2",
    "nama": "Server Japan",
    "domain": "jp1.example.com",
