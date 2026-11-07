@@ -46,19 +46,7 @@
   }
  },
  "sess": {
-  "7545471466": {
-   "mod": "adm",
-   "step": "svr_harga",
-   "data": {
-    "domain": "idv2.sanx.cloud",
-    "auth": "2a0a85",
-    "nama": "INDONESIA_V2",
-    "quota": 350,
-    "iplimit": 2,
-    "batas": 50
-   },
-   "ts": 1794028020147
-  }
+  "7545471466": null
  },
  "trx": [
   {
@@ -1044,6 +1032,16 @@
    "quota": 100,
    "iplimit": 2,
    "batas": 0
+  },
+  {
+   "id": "mw5xyqws",
+   "nama": "INDONESIA_V2",
+   "domain": "idv2.sanx.cloud",
+   "auth": "2a0a85",
+   "harga": 8000,
+   "quota": 350,
+   "iplimit": 2,
+   "batas": 50
   }
  ],
  "gmail": {
