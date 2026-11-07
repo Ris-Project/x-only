@@ -48,15 +48,16 @@
  "sess": {
   "7545471466": {
    "mod": "adm",
-   "step": "svr_batas",
+   "step": "svr_harga",
    "data": {
     "domain": "tes.com",
     "auth": "haush",
     "nama": "SG22",
     "quota": 100,
-    "iplimit": 1
+    "iplimit": 1,
+    "batas": 5
    },
-   "ts": 1794038891197
+   "ts": 1794038893119
   }
  },
  "trx": [
