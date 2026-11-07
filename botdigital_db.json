@@ -46,19 +46,7 @@
   }
  },
  "sess": {
-  "7545471466": {
-   "mod": "adm",
-   "step": "svr_harga",
-   "data": {
-    "domain": "tes.com",
-    "auth": "hsusb",
-    "nama": "tess",
-    "quota": 100,
-    "iplimit": 2,
-    "batas": 0
-   },
-   "ts": 1794027674608
-  }
+  "7545471466": null
  },
  "trx": [
   {
@@ -1034,6 +1022,16 @@
    "iplimit": 0,
    "batas": 5,
    "terpakai": 0
+  },
+  {
+   "id": "mw5xrcbb",
+   "nama": "tess",
+   "domain": "tes.com",
+   "auth": "hsusb",
+   "harga": 1000,
+   "quota": 100,
+   "iplimit": 2,
+   "batas": 0
   }
  ],
  "gmail": {
