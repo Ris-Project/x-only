@@ -1001,16 +1001,6 @@
  ],
  "servers": [
   {
-   "id": "mw5xrcbb",
-   "nama": "tess",
-   "domain": "tes.com",
-   "auth": "hsusb",
-   "harga": 1000,
-   "quota": 100,
-   "iplimit": 2,
-   "batas": 0
-  },
-  {
    "id": "mw5xyqws",
    "nama": "INDONESIA_V2",
    "domain": "idv2.sanx.cloud",
