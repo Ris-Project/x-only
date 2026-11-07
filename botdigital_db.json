@@ -46,21 +46,7 @@
   }
  },
  "sess": {
-  "5521096873": {
-   "mod": "pj",
-   "step": "confirm",
-   "data": {
-    "mode": "ext",
-    "pjId": "PJ-515J6CCT",
-    "bot": {
-     "username": "vpsrwbot"
-    },
-    "durasi": 60,
-    "harga": 30000,
-    "gratis": false
-   },
-   "ts": 1794040086183
-  }
+  "5521096873": null
  },
  "trx": [
   {
@@ -468,6 +454,25 @@
   }
  ],
  "topup": [
+  {
+   "id": "DIG-55F9R29I",
+   "chat_id": 5521096873,
+   "jenis": "pinjam",
+   "ket": "Perpanjang sewa @vpsrwbot 60 hari",
+   "base": 30000,
+   "total": 30000,
+   "trx_id": "DIG-bb7f150f-31d5-41bf-bf0a-3f6331925ebd",
+   "qr": "00020101021226670016COM.NOBUBANK.WWW01189360050300000907180214822015831009970303UMI51440014ID.CO.QRIS.WWW0215ID20254530638560303UMI520465335303360540830000.005802ID5918Eris Store Payment6011TASIKMALAYA61054611162070703A01630425F2",
+   "deadline": 1794041293071,
+   "status": "pending",
+   "data": {
+    "mode": "ext",
+    "pjId": "PJ-515J6CCT",
+    "durasi": 60,
+    "harga": 30000
+   },
+   "dibuat": "2026-11-07T08:28:13.071Z"
+  },
   {
    "id": "DIG-4ZX6ZDUO",
    "chat_id": 5521096873,
