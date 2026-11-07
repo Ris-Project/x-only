@@ -44,14 +44,7 @@
    "joined": "2026-11-06T07:36:32.993Z"
   }
  },
- "sess": {
-  "99999999": {
-   "mod": "hub",
-   "step": "topup_nominal",
-   "data": {},
-   "ts": 1794023923144
-  }
- },
+ "sess": {},
  "trx": [
   {
    "id": "TR-mw5tkv8vZQE",
