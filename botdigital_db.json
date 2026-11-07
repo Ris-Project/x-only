@@ -48,15 +48,18 @@
  "sess": {
   "5521096873": {
    "mod": "pj",
-   "step": "paket",
+   "step": "confirm",
    "data": {
     "mode": "ext",
     "pjId": "PJ-515J6CCT",
     "bot": {
      "username": "vpsrwbot"
-    }
+    },
+    "durasi": 60,
+    "harga": 30000,
+    "gratis": false
    },
-   "ts": 1794040082833
+   "ts": 1794040086183
   }
  },
  "trx": [
