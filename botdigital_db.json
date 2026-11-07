@@ -29,7 +29,8 @@
   "aktif": []
  },
  "settings": {
-  "boot_t": 1794074782581
+  "boot_t": 1794074782581,
+  "worker_url": "https://layanandigital.scpremium988.workers.dev"
  },
  "meta": {
   "dibuat": "2026-11-08"
