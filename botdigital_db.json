@@ -544,6 +544,37 @@
  ],
  "topup": [
   {
+   "id": "WEB-NV7Y2EDAUB6",
+   "chat_id": 0,
+   "jenis": "webvpn",
+   "ket": "Akun Vmess Rivalll @INDONESIA_V2 (30 hari) — Web",
+   "base": 10000,
+   "total": 10000,
+   "trx_id": "",
+   "qr": "",
+   "deadline": 1794072729722,
+   "status": "paid",
+   "data": {
+    "web": true,
+    "ip": "103.139.11.196",
+    "email": "rifalstore@gmail.com",
+    "sid": "mw5xyqws",
+    "proto": "vmess",
+    "username": "Rivalll",
+    "password": "",
+    "bugDomain": "live.iflix.com",
+    "bugMode": "sni",
+    "exp": 30,
+    "quota": 350,
+    "iplimit": 4,
+    "ipExtra": 2,
+    "bayar": "saldo",
+    "saldo_after": 0
+   },
+   "dibuat": "2026-11-07T17:12:09.722Z",
+   "paid_at": "2026-11-07T17:12:12.473Z"
+  },
+  {
    "id": "WEBT-NS27DXIF9AE",
    "chat_id": 0,
    "jenis": "webtopup",
@@ -1903,8 +1934,8 @@
    "dibuat": "2026-11-07T17:09:09.589Z",
    "ip": "103.139.11.196",
    "login_akhir": "",
-   "saldo": 10000,
-   "trx_count": 1
+   "saldo": 0,
+   "trx_count": 2
   }
  },
  "web_sess": {
