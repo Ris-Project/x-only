@@ -28,7 +28,8 @@
    "ref_count": 0,
    "ref_bonus": 0,
    "trx_count": 14,
-   "joined": "2026-11-05T18:11:41.343Z"
+   "joined": "2026-11-05T18:11:41.343Z",
+   "web": "riswanacil00@gmail.com"
   },
   "8754934796": {
    "id": 8754934796,
@@ -1195,7 +1196,8 @@
    "nama": "riswanacil00",
    "foto": "",
    "emoji": "😎",
-   "link_kode": "GCBSL3"
+   "link_kode": "",
+   "tg": 7545471466
   }
  },
  "web_sess": {
