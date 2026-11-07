@@ -45,7 +45,14 @@
    "joined": "2026-11-06T07:36:32.993Z"
   }
  },
- "sess": {},
+ "sess": {
+  "7545471466": {
+   "mod": "pjadm",
+   "step": "gratis_hari",
+   "data": {},
+   "ts": 1794071256386
+  }
+ },
  "trx": [
   {
    "id": "WEB-KCL9FN8J5DU",
