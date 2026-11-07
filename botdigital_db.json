@@ -943,7 +943,7 @@
   "pln": []
  },
  "settings": {
-  "worker_url": "https://layanandigital.scpremium988.workers.dev",
+  "worker_url": "https://digistore.sanx.cloud",
   "pj_mode": "sewa",
   "pj_mode_ubah": {
    "oleh": 7545471466,
@@ -961,7 +961,8 @@
     "at": 1793983244411
    }
   },
-  "foto_menu": "id:AgACAgUAAxkBAAJDiGruKJJTe-UoEEoagQmmCbneRGXCAAIhFmsb-_VxV2I8MqHs5nj0AQADAgADdwADPQQ"
+  "foto_menu": "id:AgACAgUAAxkBAAJDiGruKJJTe-UoEEoagQmmCbneRGXCAAIhFmsb-_VxV2I8MqHs5nj0AQADAgADdwADPQQ",
+  "boot_t": 1794012021030
  },
  "meta": {
   "dibuat": "2026-11-06"
