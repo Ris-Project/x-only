@@ -3,7 +3,21 @@
   5521096873
  ],
  "utama": 5521096873,
- "users": {},
+ "users": {
+  "5521096873": {
+   "id": 5521096873,
+   "nama": "Abangstore",
+   "uname": "abangstore123",
+   "saldo": 0,
+   "role": "member",
+   "reseller_until": 0,
+   "ref_by": 0,
+   "ref_count": 0,
+   "ref_bonus": 0,
+   "trx_count": 0,
+   "joined": "2026-11-07T08:25:29.351Z"
+  }
+ },
  "sess": {},
  "trx": [],
  "topup": [],
@@ -18,7 +32,8 @@
   "nama_store": "@vpsrwbot",
   "wajib_join": "",
   "notif_channel": "",
-  "worker_url": "https://layanandigital.scpremium988.workers.dev"
+  "worker_url": "https://layanandigital.scpremium988.workers.dev",
+  "boot_t": 1794039929351
  },
  "meta": {
   "dibuat": "2026-11-07",
