@@ -1480,6 +1480,13 @@
    "dibuat": "2026-11-07T09:46:48.400Z",
    "ip": "103.139.11.196",
    "login_akhir": ""
+  },
+  "reza@gmail.com": {
+   "salt": "bbfabdb222ff72e86d6a015554034ffd",
+   "hash": "c516e8d68e55d11665d79b6d63499fd735a879bc3c11986e2f39f57ace9c3715",
+   "dibuat": "2026-11-07T12:48:09.449Z",
+   "ip": "103.139.11.196",
+   "login_akhir": ""
   }
  },
  "web_sess": {
@@ -1494,6 +1501,10 @@
   "86354efa82f0c9d2f3c9691d5693edafff56c382dd3ceb32": {
    "email": "riswanacil00@gmail.com",
    "exp": 1796644569050
+  },
+  "8acff0a1fb397ee94c112c5d08344b2f01b0328f7a857496": {
+   "email": "reza@gmail.com",
+   "exp": 1796647689149
   }
  }
 }
