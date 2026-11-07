@@ -1341,10 +1341,5 @@
    "login_akhir": "2026-11-07T02:26:52.711Z"
   }
  },
- "web_sess": {
-  "1383cdda0d9f1f10858e23c9ed8095f29d2e413229df455a": {
-   "email": "riswanacil00@gmail.com",
-   "exp": 1796610412711
-  }
- }
+ "web_sess": {}
 }
