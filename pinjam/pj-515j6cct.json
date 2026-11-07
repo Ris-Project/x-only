@@ -1,0 +1,31 @@
+{
+ "admins": [
+  5521096873
+ ],
+ "utama": 5521096873,
+ "users": {},
+ "sess": {},
+ "trx": [],
+ "topup": [],
+ "userIps": [],
+ "servers": [],
+ "akunVPN": [],
+ "trial": {
+  "t60": {},
+  "aktif": []
+ },
+ "settings": {
+  "nama_store": "@vpsrwbot",
+  "wajib_join": "",
+  "notif_channel": "",
+  "worker_url": "https://layanandigital.scpremium988.workers.dev"
+ },
+ "meta": {
+  "dibuat": "2026-11-07",
+  "pinjam": {
+   "id": "PJ-515J6CCT",
+   "owner": 5521096873,
+   "dibuat": "2026-11-07T08:24:54.139Z"
+  }
+ }
+}
