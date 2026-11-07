@@ -535,6 +535,25 @@
  ],
  "topup": [
   {
+   "id": "WEBT-NS27DXIF9AE",
+   "chat_id": 0,
+   "jenis": "webtopup",
+   "ket": "Topup saldo web rifalstore@gmail.com (Rp10.000)",
+   "base": 10000,
+   "total": 10000,
+   "trx_id": "DIG-46472220-8092-4be4-b961-5c1b72a809b4",
+   "qr": "00020101021226670016COM.NOBUBANK.WWW01189360050300000907180214822015831009970303UMI51440014ID.CO.QRIS.WWW0215ID20254530638560303UMI520465335303360540810000.005802ID5918Eris Store Payment6011TASIKMALAYA61054611162070703A016304D3AF",
+   "deadline": 1794072582313,
+   "status": "pending",
+   "data": {
+    "web": true,
+    "email": "rifalstore@gmail.com",
+    "ip": "103.139.11.196",
+    "nominal": 10000
+   },
+   "dibuat": "2026-11-07T17:09:42.313Z"
+  },
+  {
    "id": "DIG-KI344VFK",
    "chat_id": 7545471466,
    "jenis": "topup",
