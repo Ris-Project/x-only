@@ -46,17 +46,7 @@
   }
  },
  "sess": {
-  "5521096873": {
-   "mod": "pj",
-   "step": "token",
-   "data": {
-    "mode": "baru",
-    "gratis": true,
-    "durasi": 30,
-    "harga": 0
-   },
-   "ts": 1794069988727
-  }
+  "5521096873": null
  },
  "trx": [
   {
