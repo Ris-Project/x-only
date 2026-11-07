@@ -48,16 +48,19 @@
  "sess": {
   "5521096873": {
    "mod": "vpn2",
-   "step": "durwait",
+   "step": "ipadd",
    "data": {
     "act": "cre",
     "jenis": "vmess",
     "sid": "mw5xyqws",
     "username": "Adidass",
     "bugDomain": "live.iflix.com",
-    "bugMode": "sni"
+    "bugMode": "sni",
+    "exp": 30,
+    "finalQuota": 350,
+    "baseHarga": 8000
    },
-   "ts": 1794040336013
+   "ts": 1794040337587
   }
  },
  "trx": [
