@@ -508,6 +508,37 @@
  ],
  "topup": [
   {
+   "id": "WEB-G5SQN0PE2OI",
+   "chat_id": 0,
+   "jenis": "webvpn",
+   "ket": "Akun SSH mang @INDONESIA_V2 (1 hari) — Web",
+   "base": 500,
+   "total": 500,
+   "trx_id": "",
+   "qr": "",
+   "deadline": 1794059786303,
+   "status": "paid",
+   "data": {
+    "web": true,
+    "ip": "103.139.11.196",
+    "email": "riswanacil00@gmail.com",
+    "sid": "mw5xyqws",
+    "proto": "ssh",
+    "username": "mang",
+    "password": "bebek112",
+    "bugDomain": "",
+    "bugMode": "wildcard",
+    "exp": 1,
+    "quota": 10,
+    "iplimit": 2,
+    "ipExtra": 0,
+    "bayar": "saldo",
+    "saldo_after": 500
+   },
+   "dibuat": "2026-11-07T13:36:26.303Z",
+   "paid_at": "2026-11-07T13:36:26.568Z"
+  },
+  {
    "id": "WEB-FHWN8ALN4V1",
    "chat_id": 0,
    "jenis": "webvpn",
@@ -1595,8 +1626,8 @@
    "emoji": "😀",
    "link_kode": "",
    "tg": 7545471466,
-   "saldo": 1000,
-   "trx_count": 1
+   "saldo": 500,
+   "trx_count": 2
   },
   "vpnscriswan293@gmail.com": {
    "salt": "70da742a22bfbb191c4ce568d29531c9",
