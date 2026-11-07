@@ -21,13 +21,13 @@
    "id": 7545471466,
    "nama": "Riswan Store",
    "uname": "zenviora_id",
-   "saldo": 0,
+   "saldo": 10000,
    "role": "member",
    "reseller_until": 0,
    "ref_by": 0,
    "ref_count": 0,
    "ref_bonus": 0,
-   "trx_count": 0,
+   "trx_count": 1,
    "joined": "2026-11-07T09:41:55.044Z"
   }
  },
