@@ -1412,12 +1412,23 @@
    "emoji": "😀",
    "link_kode": "",
    "tg": 7545471466
+  },
+  "vpnscriswan293@gmail.com": {
+   "salt": "70da742a22bfbb191c4ce568d29531c9",
+   "hash": "e713e73a5244b9503f40d9a69416b55f098f2054288bae53f52c8039aa12e2cb",
+   "dibuat": "2026-11-07T09:46:48.400Z",
+   "ip": "103.139.11.196",
+   "login_akhir": ""
   }
  },
  "web_sess": {
   "3ec980ec310d95fef6fae21af0949c597a8a09ed185b1ac6": {
    "email": "riswanacil00@gmail.com",
    "exp": 1796615199283
+  },
+  "f64a05a00865779946918ef6e55a676d6c65311018bcbb22": {
+   "email": "vpnscriswan293@gmail.com",
+   "exp": 1796636808097
   }
  }
 }
