@@ -1190,35 +1190,8 @@
   }
  ],
  "pinjam": {
-  "list": {
-   "PJ-DCI5HNQ8": {
-    "id": "PJ-DCI5HNQ8",
-    "ownerId": 5521096873,
-    "ownerNama": "Abangstore",
-    "ownerUname": "abangstore123",
-    "token": "7957868561:AAGeYwY_A4aIaE6TxZc7U21lxjw4ynq1wAA",
-    "adminId": 5521096873,
-    "dbPath": "pinjam/pj-dci5hnq8.json",
-    "secret": "pjs-mw5dci5hcc603m84ja",
-    "durasi": 30,
-    "harga": 15000,
-    "metode": "qris",
-    "dibuat": "2026-11-06T19:29:54.149Z",
-    "expire": 1796585395428,
-    "active": true,
-    "suspended": false,
-    "status": "aktif",
-    "warns": {
-     "d3": false,
-     "d1": false
-    },
-    "botId": 7957868561,
-    "botUsername": "vpsrwbot"
-   }
-  },
-  "byUser": {
-   "5521096873": "PJ-DCI5HNQ8"
-  },
+  "list": {},
+  "byUser": {},
   "antre": []
  },
  "web_users": {
