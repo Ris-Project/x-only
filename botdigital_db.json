@@ -48,13 +48,14 @@
  "sess": {
   "7545471466": {
    "mod": "adm",
-   "step": "svr_quota",
+   "step": "svr_iplimit",
    "data": {
     "domain": "idv2.sanx.cloud",
     "auth": "2a0a85",
-    "nama": "INDONESIA_V2"
+    "nama": "INDONESIA_V2",
+    "quota": 350
    },
-   "ts": 1794028006119
+   "ts": 1794028011828
   }
  },
  "trx": [
