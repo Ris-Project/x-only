@@ -48,7 +48,7 @@
  "sess": {
   "5521096873": {
    "mod": "vpn2",
-   "step": "ipadd",
+   "step": "confirm",
    "data": {
     "act": "cre",
     "jenis": "vmess",
@@ -58,9 +58,13 @@
     "bugMode": "sni",
     "exp": 30,
     "finalQuota": 350,
-    "baseHarga": 8000
+    "baseHarga": 8000,
+    "finalIPLimit": 2,
+    "ipExtra": 0,
+    "ipExtraHarga": 0,
+    "finalHarga": 8000
    },
-   "ts": 1794040337587
+   "ts": 1794040343330
   }
  },
  "trx": [
