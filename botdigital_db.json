@@ -45,7 +45,16 @@
    "joined": "2026-11-06T07:36:32.993Z"
   }
  },
- "sess": {},
+ "sess": {
+  "7545471466": {
+   "mod": "pj",
+   "step": "paket",
+   "data": {
+    "mode": "baru"
+   },
+   "ts": 1794065852071
+  }
+ },
  "trx": [
   {
    "id": "WEB-KCL9FN8J5DU",
