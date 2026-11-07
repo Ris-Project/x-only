@@ -48,7 +48,7 @@
  "sess": {
   "5521096873": {
    "mod": "pj",
-   "step": "adminid",
+   "step": "confirm",
    "data": {
     "mode": "baru",
     "durasi": 30,
@@ -57,9 +57,11 @@
     "bot": {
      "id": 7957868561,
      "username": "vpsrwbot"
-    }
+    },
+    "adminId": 5521096873,
+    "gratis": false
    },
-   "ts": 1794039816973
+   "ts": 1794039830000
   }
  },
  "trx": [
