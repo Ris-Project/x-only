@@ -472,6 +472,34 @@
  ],
  "topup": [
   {
+   "id": "WEB-7JOOM9IEJD6",
+   "chat_id": 0,
+   "jenis": "webvpn",
+   "ket": "Akun Vmess budd @INDONESIA_V2 (30 hari) — Web",
+   "base": 8000,
+   "total": 8000,
+   "trx_id": "DIG-ab542600-4c14-4824-9396-9d4774b3e46f",
+   "qr": "00020101021226670016COM.NOBUBANK.WWW01189360050300000907180214822015831009970303UMI51440014ID.CO.QRIS.WWW0215ID20254530638560303UMI52046533530336054078000.005802ID5918Eris Store Payment6011TASIKMALAYA61054611162070703A0163041AF5",
+   "deadline": 1794045317686,
+   "status": "pending",
+   "data": {
+    "web": true,
+    "ip": "103.139.11.196",
+    "email": "riswanacil00@gmail.com",
+    "sid": "mw5xyqws",
+    "proto": "vmess",
+    "username": "budd",
+    "password": "",
+    "bugDomain": "104.17.3.81",
+    "bugMode": "ws",
+    "exp": 30,
+    "quota": 350,
+    "iplimit": 2,
+    "ipExtra": 0
+   },
+   "dibuat": "2026-11-07T09:35:17.686Z"
+  },
+  {
    "id": "DIG-587F5AFL",
    "chat_id": 5521096873,
    "jenis": "topup",
