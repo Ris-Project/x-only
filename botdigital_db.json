@@ -518,6 +518,34 @@
  ],
  "topup": [
   {
+   "id": "WEB-GFKDLDEIANI",
+   "chat_id": 0,
+   "jenis": "webvpn",
+   "ket": "Akun Vmess bbhgg @INDONESIA_V2 (30 hari) — Web",
+   "base": 8000,
+   "total": 8000,
+   "trx_id": "DIG-3ff58c9e-60ab-4573-9d89-4479198fa391",
+   "qr": "00020101021226670016COM.NOBUBANK.WWW01189360050300000907180214822015831009970303UMI51440014ID.CO.QRIS.WWW0215ID20254530638560303UMI52046533530336054078000.005802ID5918Eris Store Payment6011TASIKMALAYA61054611162070703A0163041AF5",
+   "deadline": 1794060242090,
+   "status": "pending",
+   "data": {
+    "web": true,
+    "ip": "103.139.11.196",
+    "email": "riswanacil00@gmail.com",
+    "sid": "mw5xyqws",
+    "proto": "vmess",
+    "username": "bbhgg",
+    "password": "",
+    "bugDomain": "104.17.3.81",
+    "bugMode": "ws",
+    "exp": 30,
+    "quota": 350,
+    "iplimit": 2,
+    "ipExtra": 0
+   },
+   "dibuat": "2026-11-07T13:44:02.090Z"
+  },
+  {
    "id": "WEB-G5SQN0PE2OI",
    "chat_id": 0,
    "jenis": "webvpn",
