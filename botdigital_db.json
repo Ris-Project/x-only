@@ -8,13 +8,13 @@
    "id": 5521096873,
    "nama": "Abangstore",
    "uname": "abangstore123",
-   "saldo": 0,
+   "saldo": 10000,
    "role": "member",
    "reseller_until": 0,
    "ref_by": 0,
    "ref_count": 0,
    "ref_bonus": 0,
-   "trx_count": 6,
+   "trx_count": 7,
    "joined": "2026-11-05T18:11:39.144Z"
   },
   "7545471466": {
