@@ -48,6 +48,15 @@
  "sess": {},
  "trx": [
   {
+   "id": "WEBT-EHMVMQLSFD7",
+   "chat_id": 0,
+   "jenis": "topup-web",
+   "ket": "Topup saldo web reza@gmail.com",
+   "harga": 10000,
+   "status": "sukses",
+   "t": "2026-11-07T12:49:53.287Z"
+  },
+  {
    "id": "WEB-COI4AS91TW6",
    "chat_id": 0,
    "jenis": "akunvpn-web",
@@ -499,16 +508,18 @@
    "trx_id": "DIG-09e6c063-eb3b-4d04-9ceb-88fed18500f1",
    "qr": "00020101021226670016COM.NOBUBANK.WWW01189360050300000907180214822015831009970303UMI51440014ID.CO.QRIS.WWW0215ID20254530638560303UMI520465335303360540810000.005802ID5918Eris Store Payment6011TASIKMALAYA61054611162070703A016304D3AF",
    "deadline": 1794056979346,
-   "status": "paid",
+   "status": "done",
    "data": {
     "web": true,
     "email": "reza@gmail.com",
     "ip": "103.139.11.196",
-    "nominal": 10000
+    "nominal": 10000,
+    "saldo_after": 10000
    },
    "dibuat": "2026-11-07T12:49:39.346Z",
    "cek": 1794055786537,
-   "paid_at": "2026-11-07T12:49:52.286Z"
+   "paid_at": "2026-11-07T12:49:52.286Z",
+   "selesai": "2026-11-07T12:49:53.287Z"
   },
   {
    "id": "WEB-COI4AS91TW6",
@@ -1507,7 +1518,9 @@
    "hash": "c516e8d68e55d11665d79b6d63499fd735a879bc3c11986e2f39f57ace9c3715",
    "dibuat": "2026-11-07T12:48:09.449Z",
    "ip": "103.139.11.196",
-   "login_akhir": ""
+   "login_akhir": "",
+   "saldo": 10000,
+   "trx_count": 1
   }
  },
  "web_sess": {
