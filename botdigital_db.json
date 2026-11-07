@@ -45,14 +45,7 @@
    "joined": "2026-11-06T07:36:32.993Z"
   }
  },
- "sess": {
-  "7545471466": {
-   "mod": "pjadm",
-   "step": "gratis_hari",
-   "data": {},
-   "ts": 1794071256386
-  }
- },
+ "sess": {},
  "trx": [
   {
    "id": "WEB-NV7Y2EDAUB6",
@@ -1745,7 +1738,7 @@
   "pln": []
  },
  "settings": {
-  "worker_url": "https://digistore.sanx.cloud",
+  "worker_url": "https://layanandigital.scpremium988.workers.dev",
   "pj_mode": "sewa",
   "pj_mode_ubah": {
    "oleh": 7545471466,
