@@ -50,6 +50,16 @@
  },
  "trx": [
   {
+   "id": "DIG-55F9R29I",
+   "chat_id": 5521096873,
+   "jenis": "pinjam",
+   "ket": "Sewa bot @vpsrwbot 60 hari",
+   "harga": 30000,
+   "metode": "qris",
+   "status": "sukses",
+   "t": "2026-11-07T08:28:56.310Z"
+  },
+  {
    "id": "DIG-4ZX6ZDUO",
    "chat_id": 5521096873,
    "jenis": "pinjam",
@@ -1263,11 +1273,11 @@
     "adminId": 5521096873,
     "dbPath": "pinjam/pj-515j6cct.json",
     "secret": "pjs-mw6515j6289rmul1m1",
-    "durasi": 30,
-    "harga": 15000,
+    "durasi": 60,
+    "harga": 30000,
     "metode": "qris",
     "dibuat": "2026-11-07T08:24:53.826Z",
-    "expire": 1796631895127,
+    "expire": 1801815895127,
     "active": true,
     "suspended": false,
     "status": "aktif",
