@@ -1375,8 +1375,8 @@
     "dibuat": "2026-11-07T08:24:53.826Z",
     "expire": 1801815895127,
     "active": true,
-    "suspended": false,
-    "status": "aktif",
+    "suspended": true,
+    "status": "suspend",
     "warns": {
      "d3": false,
      "d1": false
