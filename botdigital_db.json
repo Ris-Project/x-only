@@ -46,7 +46,12 @@
   }
  },
  "sess": {
-  "7545471466": null
+  "7545471466": {
+   "mod": "pjadm",
+   "step": "gratis_hari",
+   "data": {},
+   "ts": 1794071256386
+  }
  },
  "trx": [
   {
@@ -1740,7 +1745,7 @@
   "pln": []
  },
  "settings": {
-  "worker_url": "https://layanandigital.scpremium988.workers.dev",
+  "worker_url": "https://digistore.sanx.cloud",
   "pj_mode": "sewa",
   "pj_mode_ubah": {
    "oleh": 7545471466,
