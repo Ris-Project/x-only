@@ -19,12 +19,7 @@
   }
  },
  "sess": {
-  "5521096873": {
-   "mod": "adm",
-   "step": "foto_menu",
-   "data": {},
-   "ts": 1794039982164
-  }
+  "5521096873": null
  },
  "trx": [],
  "topup": [],
@@ -40,7 +35,8 @@
   "wajib_join": "",
   "notif_channel": "",
   "worker_url": "https://layanandigital.scpremium988.workers.dev",
-  "boot_t": 1794039929351
+  "boot_t": 1794039929351,
+  "foto_menu": "id:AgACAgUAAxkBAAII5mruK17GKov-X2rKHwABnbGcR7JssQAC0BhrGzPScFcwbgq1B4icXQEAAwIAA3cAAz0E"
  },
  "meta": {
   "dibuat": "2026-11-07",
