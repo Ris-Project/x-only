@@ -1181,8 +1181,8 @@
     "dibuat": "2026-11-06T19:29:54.149Z",
     "expire": 1796585395428,
     "active": true,
-    "suspended": false,
-    "status": "aktif",
+    "suspended": true,
+    "status": "suspend",
     "warns": {
      "d3": false,
      "d1": false
