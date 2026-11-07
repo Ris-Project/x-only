@@ -48,13 +48,14 @@
  "sess": {
   "5521096873": {
    "mod": "vpn2",
-   "step": "user",
+   "step": "bugwait",
    "data": {
     "act": "cre",
     "jenis": "vmess",
-    "sid": "mw5xyqws"
+    "sid": "mw5xyqws",
+    "username": "Testingg"
    },
-   "ts": 1794040191794
+   "ts": 1794040196965
   }
  },
  "trx": [
