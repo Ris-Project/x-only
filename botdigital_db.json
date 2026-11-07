@@ -1396,7 +1396,7 @@
    "hash": "7f2a04e974be27c4649e34c137610a616bfc67a4e34744b625be4613b370cbd0",
    "dibuat": "2026-11-07T01:27:52.136Z",
    "ip": "103.139.11.196",
-   "login_akhir": "2026-11-07T10:33:39.372Z",
+   "login_akhir": "2026-11-07T11:56:09.050Z",
    "nama": "riswanacil00",
    "foto": "",
    "emoji": "😀",
@@ -1419,6 +1419,10 @@
   "81c5813289753c22ec364c4cfb77a8f2facc47471a6ab6b2": {
    "email": "riswanacil00@gmail.com",
    "exp": 1796639618670
+  },
+  "86354efa82f0c9d2f3c9691d5693edafff56c382dd3ceb32": {
+   "email": "riswanacil00@gmail.com",
+   "exp": 1796644569050
   }
  }
 }
