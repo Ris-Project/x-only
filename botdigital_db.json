@@ -46,19 +46,7 @@
   }
  },
  "sess": {
-  "7545471466": {
-   "mod": "adm",
-   "step": "svr_harga",
-   "data": {
-    "domain": "tes.com",
-    "auth": "dhgyg",
-    "nama": "SGDO22",
-    "quota": 350,
-    "iplimit": 2,
-    "batas": 50
-   },
-   "ts": 1794072198699
-  }
+  "7545471466": null
  },
  "trx": [
   {
@@ -1724,6 +1712,16 @@
    "nama": "INDONESIA_V2",
    "domain": "idv2.sanx.cloud",
    "auth": "2a0a85",
+   "harga": 8000,
+   "quota": 350,
+   "iplimit": 2,
+   "batas": 50
+  },
+  {
+   "id": "mw6o9o7i",
+   "nama": "SGDO22",
+   "domain": "tes.com",
+   "auth": "dhgyg",
    "harga": 8000,
    "quota": 350,
    "iplimit": 2,
