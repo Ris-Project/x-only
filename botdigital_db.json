@@ -48,9 +48,11 @@
  "sess": {
   "7545471466": {
    "mod": "adm",
-   "step": "svr_domain",
-   "data": {},
-   "ts": 1794027917855
+   "step": "svr_auth",
+   "data": {
+    "domain": "idv2.sanx.cloud"
+   },
+   "ts": 1794027938582
   }
  },
  "trx": [
