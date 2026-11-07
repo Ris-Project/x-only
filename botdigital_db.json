@@ -454,7 +454,7 @@
    "trx_id": "DIG-5da186a4-6e85-45a2-8935-9dd559b8af5e",
    "qr": "00020101021226670016COM.NOBUBANK.WWW01189360050300000907180214822015831009970303UMI51440014ID.CO.QRIS.WWW0215ID20254530638560303UMI520465335303360540815000.005802ID5918Eris Store Payment6011TASIKMALAYA61054611162070703A016304D6F0",
    "deadline": 1794041036363,
-   "status": "pending",
+   "status": "paid",
    "data": {
     "mode": "baru",
     "durasi": 30,
@@ -471,7 +471,8 @@
     }
    },
    "dibuat": "2026-11-07T08:23:56.363Z",
-   "msg_id": 17745
+   "msg_id": 17745,
+   "paid_at": "2026-11-07T08:24:52.519Z"
   },
   {
    "id": "DIG-YCW088UP",
