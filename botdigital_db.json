@@ -48,15 +48,16 @@
  "sess": {
   "7545471466": {
    "mod": "adm",
-   "step": "svr_batas",
+   "step": "svr_harga",
    "data": {
     "domain": "tes.com",
     "auth": "dhgyg",
     "nama": "SGDO22",
     "quota": 350,
-    "iplimit": 2
+    "iplimit": 2,
+    "batas": 50
    },
-   "ts": 1794072195571
+   "ts": 1794072198699
   }
  },
  "trx": [
