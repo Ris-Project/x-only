@@ -1000,24 +1000,25 @@
  ],
  "servers": [
   {
-   "id": "mw43nas8",
-   "nama": "indo_v2",
-   "domain": "idv2.sanx.cloud",
-   "auth": "2a0a85",
-   "harga": 8000,
-   "quota": 350,
+   "id": "s1",
+   "nama": "Server Singapore",
+   "domain": "sg1.example.com",
+   "auth": "rahasia1",
+   "harga": 15000,
+   "quota": 0,
    "iplimit": 2,
    "batas": 0
   },
   {
-   "id": "mw5o2it6",
-   "nama": "TESSCOM",
-   "domain": "tes.com",
-   "auth": "jsjdu",
-   "harga": 1000,
-   "quota": 100,
-   "iplimit": 1,
-   "batas": 0
+   "id": "s2",
+   "nama": "Server Japan",
+   "domain": "jp1.example.com",
+   "auth": "rahasia2",
+   "harga": 20000,
+   "quota": 50,
+   "iplimit": 0,
+   "batas": 5,
+   "terpakai": 0
   }
  ],
  "gmail": {
@@ -1032,7 +1033,7 @@
   "pln": []
  },
  "settings": {
-  "worker_url": "https://layanandigital.scpremium988.workers.dev",
+  "worker_url": "https://test-worker.workers.dev",
   "pj_mode": "sewa",
   "pj_mode_ubah": {
    "oleh": 7545471466,
@@ -1051,7 +1052,8 @@
    }
   },
   "foto_menu": "id:AgACAgUAAxkBAAJDiGruKJJTe-UoEEoagQmmCbneRGXCAAIhFmsb-_VxV2I8MqHs5nj0AQADAgADdwADPQQ",
-  "boot_t": 1794012021030
+  "boot_t": 1794012021030,
+  "wajib_join": ""
  },
  "meta": {
   "dibuat": "2026-11-06"
