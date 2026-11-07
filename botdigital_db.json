@@ -47,13 +47,14 @@
  "sess": {
   "7545471466": {
    "mod": "adm",
-   "step": "svr_quota",
+   "step": "svr_iplimit",
    "data": {
     "domain": "tes.com",
     "auth": "jsjdu",
-    "nama": "TESSCOM"
+    "nama": "TESSCOM",
+    "quota": 100
    },
-   "ts": 1794011386324
+   "ts": 1794011390648
   }
  },
  "trx": [
