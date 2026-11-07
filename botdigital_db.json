@@ -44,18 +44,7 @@
    "joined": "2026-11-06T07:36:32.993Z"
   }
  },
- "sess": {
-  "7545471466": {
-   "mod": "pj",
-   "step": "token",
-   "data": {
-    "mode": "baru",
-    "durasi": 30,
-    "harga": 15000
-   },
-   "ts": 1794017128615
-  }
- },
+ "sess": {},
  "trx": [
   {
    "id": "TR-mw5q61noJLB",
