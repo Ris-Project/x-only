@@ -45,19 +45,7 @@
   }
  },
  "sess": {
-  "7545471466": {
-   "mod": "adm",
-   "step": "svr_harga",
-   "data": {
-    "domain": "tes.com",
-    "auth": "jsjdu",
-    "nama": "TESSCOM",
-    "quota": 100,
-    "iplimit": 1,
-    "batas": 0
-   },
-   "ts": 1794011398214
-  }
+  "7545471466": null
  },
  "trx": [
   {
@@ -932,6 +920,16 @@
    "harga": 8000,
    "quota": 350,
    "iplimit": 2,
+   "batas": 0
+  },
+  {
+   "id": "mw5o2it6",
+   "nama": "TESSCOM",
+   "domain": "tes.com",
+   "auth": "jsjdu",
+   "harga": 1000,
+   "quota": 100,
+   "iplimit": 1,
    "batas": 0
   }
  ],
