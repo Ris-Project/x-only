@@ -48,12 +48,13 @@
  "sess": {
   "7545471466": {
    "mod": "adm",
-   "step": "svr_nama",
+   "step": "svr_quota",
    "data": {
     "domain": "tes.com",
-    "auth": "dhgyg"
+    "auth": "dhgyg",
+    "nama": "SGDO22"
    },
-   "ts": 1794072174561
+   "ts": 1794072187598
   }
  },
  "trx": [
