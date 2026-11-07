@@ -50,6 +50,16 @@
  },
  "trx": [
   {
+   "id": "DIG-4ZX6ZDUO",
+   "chat_id": 5521096873,
+   "jenis": "pinjam",
+   "ket": "Sewa bot @vpsrwbot 30 hari",
+   "harga": 15000,
+   "metode": "qris",
+   "status": "sukses",
+   "t": "2026-11-07T08:24:55.127Z"
+  },
+  {
    "id": "TR-mw5y3cpr6BN",
    "chat_id": 0,
    "jenis": "trial",
@@ -1222,8 +1232,35 @@
   }
  ],
  "pinjam": {
-  "list": {},
-  "byUser": {},
+  "list": {
+   "PJ-515J6CCT": {
+    "id": "PJ-515J6CCT",
+    "ownerId": 5521096873,
+    "ownerNama": "Abangstore",
+    "ownerUname": "abangstore123",
+    "token": "7957868561:AAGeYwY_A4aIaE6TxZc7U21lxjw4ynq1wAA",
+    "adminId": 5521096873,
+    "dbPath": "pinjam/pj-515j6cct.json",
+    "secret": "pjs-mw6515j6289rmul1m1",
+    "durasi": 30,
+    "harga": 15000,
+    "metode": "qris",
+    "dibuat": "2026-11-07T08:24:53.826Z",
+    "expire": 1796631895127,
+    "active": true,
+    "suspended": false,
+    "status": "aktif",
+    "warns": {
+     "d3": false,
+     "d1": false
+    },
+    "botId": 7957868561,
+    "botUsername": "vpsrwbot"
+   }
+  },
+  "byUser": {
+   "5521096873": "PJ-515J6CCT"
+  },
   "antre": []
  },
  "web_users": {
