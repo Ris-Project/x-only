@@ -1338,8 +1338,13 @@
    "hash": "7f2a04e974be27c4649e34c137610a616bfc67a4e34744b625be4613b370cbd0",
    "dibuat": "2026-11-07T01:27:52.136Z",
    "ip": "103.139.11.196",
-   "login_akhir": "2026-11-07T02:03:06.171Z"
+   "login_akhir": "2026-11-07T02:26:52.711Z"
   }
  },
- "web_sess": {}
+ "web_sess": {
+  "1383cdda0d9f1f10858e23c9ed8095f29d2e413229df455a": {
+   "email": "riswanacil00@gmail.com",
+   "exp": 1796610412711
+  }
+ }
 }
