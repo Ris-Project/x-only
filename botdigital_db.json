@@ -14,7 +14,7 @@
    "ref_by": 0,
    "ref_count": 0,
    "ref_bonus": 0,
-   "trx_count": 5,
+   "trx_count": 6,
    "joined": "2026-11-05T18:11:39.144Z"
   },
   "7545471466": {
@@ -46,6 +46,16 @@
  },
  "sess": {},
  "trx": [
+  {
+   "id": "TR-mw5tkv8vZQE",
+   "chat_id": 5521096873,
+   "jenis": "trial",
+   "ket": "Trial SSH tryktzrupwqea @indo_v2 (60 menit)",
+   "harga": 0,
+   "metode": "gratis",
+   "status": "sukses",
+   "t": "2026-11-07T03:04:18.223Z"
+  },
   {
    "id": "TR-mw5tiu3i2DW",
    "chat_id": 7545471466,
@@ -1082,7 +1092,7 @@
     "WEB:2a09:bac1:34c0:28::3c1:4e": 1,
     "7545471466": 3,
     "WEB:2a09:bac1:3480:28::4dc:36": 1,
-    "5521096873": 1,
+    "5521096873": 2,
     "WEB:103.139.11.196": 1
    }
   },
@@ -1264,6 +1274,16 @@
     "ip": "",
     "buat": 1794020563422,
     "hapus": 1794024163422
+   },
+   {
+    "jenis": "ssh",
+    "user": "TrialSSH711",
+    "sid": "mw43nas8",
+    "chat_id": 5521096873,
+    "web": false,
+    "ip": "",
+    "buat": 1794020658223,
+    "hapus": 1794024258223
    }
   ]
  },
