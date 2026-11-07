@@ -48,12 +48,13 @@
  "sess": {
   "7545471466": {
    "mod": "adm",
-   "step": "svr_nama",
+   "step": "svr_quota",
    "data": {
     "domain": "tes.com",
-    "auth": "hsusb"
+    "auth": "hsusb",
+    "nama": "tess"
    },
-   "ts": 1794027657890
+   "ts": 1794027660984
   }
  },
  "trx": [
