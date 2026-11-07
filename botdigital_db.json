@@ -1001,17 +1001,6 @@
  ],
  "servers": [
   {
-   "id": "s2",
-   "nama": "Server Japan",
-   "domain": "jp1.example.com",
-   "auth": "rahasia2",
-   "harga": 20000,
-   "quota": 50,
-   "iplimit": 0,
-   "batas": 5,
-   "terpakai": 0
-  },
-  {
    "id": "mw5xrcbb",
    "nama": "tess",
    "domain": "tes.com",
