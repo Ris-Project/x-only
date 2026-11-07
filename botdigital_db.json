@@ -53,9 +53,10 @@
     "act": "cre",
     "jenis": "vmess",
     "sid": "mw5xyqws",
-    "username": "Testingg"
+    "username": "Testingg",
+    "bugDomain": "live.iflix.com"
    },
-   "ts": 1794040196965
+   "ts": 1794040200966
   }
  },
  "trx": [
