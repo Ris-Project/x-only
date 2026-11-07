@@ -48,6 +48,15 @@
  "sess": {},
  "trx": [
   {
+   "id": "WEB-COI4AS91TW6",
+   "chat_id": 0,
+   "jenis": "akunvpn-web",
+   "ket": "Akun SSH bengSSH013 @INDONESIA_V2 (1 hari) — WEB",
+   "harga": 500,
+   "status": "sukses",
+   "t": "2026-11-07T11:59:54.172Z"
+  },
+  {
    "id": "WEB-7JOOM9IEJD6",
    "chat_id": 0,
    "jenis": "akunvpn-web",
@@ -490,7 +499,7 @@
    "trx_id": "DIG-f7b726ab-864c-49ba-a6ec-1c33cb08e0ef",
    "qr": "00020101021226670016COM.NOBUBANK.WWW01189360050300000907180214822015831009970303UMI51440014ID.CO.QRIS.WWW0215ID20254530638560303UMI5204653353033605406500.005802ID5918Eris Store Payment6011TASIKMALAYA61054611162070703A0163043C91",
    "deadline": 1794053940538,
-   "status": "paid",
+   "status": "done",
    "data": {
     "web": true,
     "ip": "103.139.11.196",
@@ -508,7 +517,30 @@
    },
    "dibuat": "2026-11-07T11:59:00.538Z",
    "cek": 1794052787999,
-   "paid_at": "2026-11-07T11:59:49.386Z"
+   "paid_at": "2026-11-07T11:59:49.386Z",
+   "hasil": {
+    "judul": "AKUN PREMIUM SSH",
+    "username": "bengSSH013",
+    "password": "beng123",
+    "uuid": "SSH WS      : 80,8880,2086",
+    "domain": "idv2.sanx.cloud",
+    "expired": "08 Nov, 2026",
+    "quota": 10,
+    "ip_limit": "2 IP",
+    "bug": "",
+    "bug_mode": "wildcard",
+    "links": [
+     {
+      "label": "SSH WS HTTP (Port 80)",
+      "link": "idv2.sanx.cloud:80@bengSSH013:beng123"
+     },
+     {
+      "label": "SSH WS HTTPS (Port 443)",
+      "link": "idv2.sanx.cloud:443@bengSSH013:beng123"
+     }
+    ]
+   },
+   "selesai": "2026-11-07T11:59:54.172Z"
   },
   {
    "id": "WEB-7JOOM9IEJD6",
@@ -1386,6 +1418,15 @@
    "chat_id": 0,
    "web": true,
    "t": "2026-11-07T09:35:46.592Z"
+  },
+  {
+   "jenis": "ssh",
+   "user": "bengSSH013",
+   "sid": "mw5xyqws",
+   "server": "INDONESIA_V2",
+   "chat_id": 0,
+   "web": true,
+   "t": "2026-11-07T11:59:54.172Z"
   }
  ],
  "pinjam": {
